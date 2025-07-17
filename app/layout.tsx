@@ -7,7 +7,10 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Kimetsu no Yaiba - Fan Site",
+  title: "Kimetsu no Yaiba",
+  icons: {
+    icon: "/favicon.ico",
+  },
   description: "Tudo sobre o universo de Demon Slayer: personagens, episódios e temporadas.",
     generator: 'v0.dev'
 }
@@ -19,6 +22,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
+      <head>
+        <link rel="icon" href="/favicon.ico" />
+        {/* outros metadados extras se quiser */}
+      </head>
       <body className={`${inter.className} bg-black text-white`}>
         <div className="flex flex-col min-h-screen">
           <Header />

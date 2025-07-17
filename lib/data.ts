@@ -370,35 +370,35 @@ export const seasons = [
       {
         epNumber: 1,
         title: "Crueldade",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t1-ep1.jpg",
         summary:
           "A vida de Tanjiro Kamado muda para sempre quando sua família é massacrada por um demônio e sua irmã Nezuko é transformada.",
       },
       {
         epNumber: 2,
         title: "Sakonji Urokodaki, o Treinador",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t1-ep2.jpg",
         summary:
           "Seguindo o conselho de Giyu, Tanjiro viaja para o Monte Sagiri para encontrar um treinador que possa prepará-lo para a Seleção Final.",
       },
       {
         epNumber: 3,
         title: "Sabito e Makomo",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t1-ep3.jpg",
         summary:
           "Durante o treinamento, Tanjiro encontra os espíritos de Sabito e Makomo, antigos alunos de Urokodaki que o ajudam a se preparar.",
       },
       {
         epNumber: 4,
         title: "Seleção Final",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t1-ep4.jpg",
         summary:
           "Tanjiro participa da Seleção Final no Monte Fujikasane, onde deve sobreviver por sete dias entre demônios capturados.",
       },
       {
         epNumber: 5,
         title: "Minha Própria Lâmina de Aço",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t1-ep5.jpg",
         summary:
           "Tanjiro recebe sua primeira missão como Caçador de Demônios e conhece Haganezuka, o ferreiro que forjará sua espada Nichirin.",
       },
