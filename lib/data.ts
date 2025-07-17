@@ -64,8 +64,8 @@ export const characters = [
   {
     id: 7,
     name: "Kyojuro Rengoku",
-    image: "/placeholder.svg?width=300&height=400",
-    banner: "/personagens/inosuke/banner-inosuke.jpg",
+    image: "/personagens/kyojuro/char-kyojuro.jpg",
+    banner: "/personagens/kyojuro/banner-kyojuro.jpg",
     bio: "O Hashira das Chamas. Um guerreiro carismático e otimista com um inabalável senso de dever e justiça.",
     affiliation: "Hashira das Chamas",
     breathing: "Respiração das Chamas",
@@ -74,7 +74,8 @@ export const characters = [
   {
     id: 8,
     name: "Tengen Uzui",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/tengen/char-tengen.jpg",
+    banner: "/personagens/tengen/banner-tengen.jpg",
     bio: "O Hashira do Som. Um ex-shinobi extravagante que valoriza tudo que é 'chamativo'. Luta com duas lâminas Nichirin gigantes.",
     affiliation: "Hashira do Som",
     breathing: "Respiração do Som",
@@ -83,7 +84,8 @@ export const characters = [
   {
     id: 9,
     name: "Muichiro Tokito",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/muichiro/char-muichiro.jpg",
+    banner: "/personagens/muichiro/banner-muichiro.jpg",
     bio: "O Hashira da Névoa. Um jovem prodígio que parece distraído, mas é um dos espadachins mais talentosos da corporação.",
     affiliation: "Hashira da Névoa",
     breathing: "Respiração da Névoa",
@@ -92,7 +94,8 @@ export const characters = [
   {
     id: 10,
     name: "Mitsuri Kanroji",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/mitsuri/char-mitsuri.jpg",
+    banner: "/personagens/mitsuri/banner-mitsuri.jpg",
     bio: "A Hashira do Amor. Entrou para os Caçadores de Demônios para encontrar um marido mais forte que ela. É incrivelmente forte e flexível.",
     affiliation: "Hashira do Amor",
     breathing: "Respiração do Amor",
@@ -101,7 +104,8 @@ export const characters = [
   {
     id: 11,
     name: "Gyomei Himejima",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/gyomei/char-gyomei.jpg",
+    banner: "/personagens/gyomei/banner-gyomei.jpg",
     bio: "O Hashira da Pedra. Considerado o mais forte entre os Hashiras. É um gigante gentil e cego que está sempre em oração.",
     affiliation: "Hashira da Pedra",
     breathing: "Respiração da Pedra",
@@ -110,7 +114,8 @@ export const characters = [
   {
     id: 12,
     name: "Sanemi Shinazugawa",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/sanemi/char-sanemi.jpg",
+    banner: "/personagens/sanemi/banner-sanemi.jpeg",
     bio: "O Hashira do Vento. Agressivo e de pavio curto, seu corpo é coberto de cicatrizes e seu ódio por demônios é incomparável.",
     affiliation: "Hashira do Vento",
     breathing: "Respiração do Vento",
