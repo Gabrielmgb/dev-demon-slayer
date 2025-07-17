@@ -14,7 +14,7 @@ export const characters = [
     id: 2,
     name: "Nezuko Kamado",
     image: "/dev-demon-slayer/personagens/nezuko/char-nezuko.jpg",
-    banner: "/dev-demon-slayer/personagens/nezuko/banner-nezuko.jpg",
+    banner: "/dev-demon-slayer/personagens/nezuko/banner-nezuko.png",
     bio: "A irmã mais nova de Tanjiro, transformada em um demônio. Ela luta para proteger os humanos e resiste à necessidade de consumir sangue.",
     affiliation: "Demônio",
     breathing: "Kekkijutsu (Arte Demoníaca de Sangue)",
@@ -135,7 +135,8 @@ export const characters = [
   {
     id: 14,
     name: "Kokushibo",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/kokushibo/char-kokushibo.jpg",
+    banner: "/personagens/kokushibo/banner-kokushibo.jpg",
     bio: "Lua Superior Um. O demônio mais poderoso sob o comando de Muzan, foi um Caçador de Demônios na era de ouro.",
     affiliation: "Lua Superior Um",
     breathing: "Respiração da Lua",
@@ -144,7 +145,8 @@ export const characters = [
   {
     id: 15,
     name: "Doma",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/doma/char-doma.jpg",
+    banner: "/personagens/doma/banner-doma.jpg",
     bio: "Lua Superior Dois. Um demônio sádico e sem emoções que lidera um culto para devorar suas seguidoras.",
     affiliation: "Lua Superior Dois",
     breathing: "Kekkijutsu de Gelo",
@@ -153,7 +155,8 @@ export const characters = [
   {
     id: 16,
     name: "Akaza",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/akaza/char-akaza.jpg",
+    banner: "/personagens/akaza/banner-akaza.png",
     bio: "Lua Superior Três. Um mestre em artes marciais que busca a perfeição no combate e despreza os fracos.",
     affiliation: "Lua Superior Três",
     breathing: "Kekkijutsu de Combate",
@@ -163,7 +166,8 @@ export const characters = [
   {
     id: 17,
     name: "Muzan Kibutsuji",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/muzan/char-muzan.jpeg",
+    banner: "/personagens/muzan/banner-muzan.png",
     bio: "O Rei dos Demônios e o progenitor de todos os outros. É o principal antagonista, buscando a imortalidade perfeita.",
     affiliation: "Rei dos Demônios",
     breathing: "Origem dos Demônios",
@@ -172,7 +176,8 @@ export const characters = [
   {
     id: 18,
     name: "Genya Shinazugawa",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/genya/char-genya.jpg",
+    banner: "/personagens/genya/banner-genya.jpg",
     bio: "Irmão mais novo de Sanemi. Não consegue usar Respirações, mas pode ganhar poder demoníaco ao devorar demônios.",
     affiliation: "Caçador de Demônios",
     breathing: "Nenhuma (Usa armas de fogo e poder demoníaco)",
@@ -181,7 +186,8 @@ export const characters = [
   {
     id: 19,
     name: "Sakonji Urokodaki",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/sakonji/char-sakonji.jpg",
+    banner: "/personagens/sakonji/banner-sakonji.jpg",
     bio: "Ex-Hashira da Água e mestre de Tanjiro e Giyu. Usa uma máscara de tengu para esconder seu rosto gentil.",
     affiliation: "Treinador / Ex-Hashira",
     breathing: "Respiração da Água",
@@ -190,7 +196,8 @@ export const characters = [
   {
     id: 20,
     name: "Tamayo",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/tamayo/char-tamayo.jpg",
+    banner: "/personagens/tamayo/banner-tamayo.jpeg",
     bio: "Uma demônio médica que se libertou do controle de Muzan e dedica sua existência a encontrar uma cura e derrotá-lo.",
     affiliation: "Demônio Aliada",
     breathing: "Kekkijutsu de Encantamento Sanguíneo",
@@ -199,7 +206,8 @@ export const characters = [
   {
     id: 21,
     name: "Yushiro",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/yushiro/char-yushiro.jpg",
+    banner: "/personagens/yushiro/banner-yushiro.jpg",
     bio: "O leal assistente de Tamayo, transformado por ela para ser salvo de uma doença terminal. É extremamente protetor com ela.",
     affiliation: "Demônio Aliado",
     breathing: "Kekkijutsu de Ocultação",
@@ -209,7 +217,8 @@ export const characters = [
   {
     id: 22,
     name: "Rui",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/rui/char-rui.jpg",
+    banner: "/personagens/rui/banner-rui.jpg",
     bio: "Lua Inferior Cinco. Um demônio que ansiava por laços familiares e criou uma 'família' forçada na Montanha Natagumo.",
     affiliation: "Lua Inferior Cinco",
     breathing: "Kekkijutsu de Teias",
