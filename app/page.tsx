@@ -10,7 +10,7 @@ export default function HomePage() {
       <section className="relative w-full h-[60vh] md:h-[80vh] flex items-center justify-center text-center overflow-hidden rounded-lg mb-12">
         <div className="absolute inset-0 bg-black/60 z-10" />
         <img
-          src="/hero-banner.jpg?width=1920&height=1080"
+          src="/dev-demon-slayer/hero-banner.jpg?width=1920&height=1080"
           alt="Background da 4ª Temporada"
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -93,7 +93,7 @@ export default function HomePage() {
           <Card className="bg-gradient-to-br from-gray-900 to-gray-800 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
             <div className="relative h-48 overflow-hidden">
               <img
-                src="/personagens.gif?width=600&height=300"
+                src="/dev-demon-slayer/personagens.gif?width=600&height=300"
                 alt="Personagens de Demon Slayer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -140,7 +140,7 @@ export default function HomePage() {
           <Card className="bg-gradient-to-br from-gray-900 to-gray-800 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
             <div className="relative h-48 overflow-hidden">
               <img
-                src="/episodes.gif?width=600&height=300"
+                src="/dev-demon-slayer/episodes.gif?width=600&height=300"
                 alt="Episódios de Demon Slayer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
