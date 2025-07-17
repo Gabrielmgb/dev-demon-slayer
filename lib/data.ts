@@ -8,8 +8,10 @@ export const characters = [
     bio: "Um jovem bondoso que se torna um Caçador de Demônios para vingar sua família e encontrar uma cura para sua irmã, Nezuko.",
     affiliation: "Caçador de Demônios",
     breathing: "Respiração da Água e Hinokami Kagura",
-    trivia: "Possui um olfato extremamente aguçado, capaz de sentir a presença de demônios e emoções.",
+    trivia:
+      "Possui um olfato extremamente aguçado, capaz de sentir a presença de demônios e emoções.",
   },
+
   {
     id: 2,
     name: "Nezuko Kamado",
@@ -18,8 +20,10 @@ export const characters = [
     bio: "A irmã mais nova de Tanjiro, transformada em um demônio. Ela luta para proteger os humanos e resiste à necessidade de consumir sangue.",
     affiliation: "Demônio",
     breathing: "Kekkijutsu (Arte Demoníaca de Sangue)",
-    trivia: "Consegue alterar o tamanho de seu corpo e possui uma força regenerativa impressionante.",
+    trivia:
+      "Consegue alterar o tamanho de seu corpo e possui uma força regenerativa impressionante.",
   },
+
   {
     id: 3,
     name: "Zenitsu Agatsuma",
@@ -28,8 +32,10 @@ export const characters = [
     bio: "Um Caçador de Demônios medroso que só consegue lutar quando está inconsciente ou dormindo, revelando um poder imenso.",
     affiliation: "Caçador de Demônios",
     breathing: "Respiração do Trovão",
-    trivia: "Sua audição é sobre-humana, permitindo que ele distinga o som do coração de pessoas e demônios.",
+    trivia:
+      "Sua audição é sobre-humana, permitindo que ele distinga o som do coração de pessoas e demônios.",
   },
+
   {
     id: 4,
     name: "Inosuke Hashibira",
@@ -38,7 +44,8 @@ export const characters = [
     bio: "Criado por javalis nas montanhas, Inosuke é um lutador selvagem e orgulhoso, com um estilo de luta único e imprevisível.",
     affiliation: "Caçador de Demônios",
     breathing: "Respiração da Besta",
-    trivia: "Usa uma máscara de javali para esconder seu rosto surpreendentemente delicado.",
+    trivia:
+      "Usa uma máscara de javali para esconder seu rosto surpreendentemente delicado.",
   },
   // Hashiras
   {
@@ -49,8 +56,10 @@ export const characters = [
     bio: "O Hashira da Água. Um espadachim poderoso e reservado que foi o primeiro a encontrar Tanjiro e Nezuko após a tragédia.",
     affiliation: "Hashira da Água",
     breathing: "Respiração da Água",
-    trivia: "Criou a décima primeira forma da Respiração da Água, chamada 'Calmaria'.",
+    trivia:
+      "Criou a décima primeira forma da Respiração da Água, chamada 'Calmaria'.",
   },
+
   {
     id: 6,
     name: "Shinobu Kocho",
@@ -59,8 +68,10 @@ export const characters = [
     bio: "A Hashira do Inseto. Apesar de sua aparência calma e amigável, ela é extremamente letal, usando venenos para derrotar demônios.",
     affiliation: "Hashira do Inseto",
     breathing: "Respiração do Inseto",
-    trivia: "É a única Hashira que não consegue decapitar um demônio, compensando com sua agilidade e venenos mortais.",
+    trivia:
+      "É a única Hashira que não consegue decapitar um demônio, compensando com sua agilidade e venenos mortais.",
   },
+
   {
     id: 7,
     name: "Kyojuro Rengoku",
@@ -69,8 +80,10 @@ export const characters = [
     bio: "O Hashira das Chamas. Um guerreiro carismático e otimista com um inabalável senso de dever e justiça.",
     affiliation: "Hashira das Chamas",
     breathing: "Respiração das Chamas",
-    trivia: "Sua paixão por comida é quase tão grande quanto sua paixão por proteger os inocentes.",
+    trivia:
+      "Sua paixão por comida é quase tão grande quanto sua paixão por proteger os inocentes.",
   },
+
   {
     id: 8,
     name: "Tengen Uzui",
@@ -79,8 +92,10 @@ export const characters = [
     bio: "O Hashira do Som. Um ex-shinobi extravagante que valoriza tudo que é 'chamativo'. Luta com duas lâminas Nichirin gigantes.",
     affiliation: "Hashira do Som",
     breathing: "Respiração do Som",
-    trivia: "Possui três esposas, todas kunoichis habilidosas que o auxiliam em suas missões.",
+    trivia:
+      "Possui três esposas, todas kunoichis habilidosas que o auxiliam em suas missões.",
   },
+
   {
     id: 9,
     name: "Muichiro Tokito",
@@ -89,7 +104,8 @@ export const characters = [
     bio: "O Hashira da Névoa. Um jovem prodígio que parece distraído, mas é um dos espadachins mais talentosos da corporação.",
     affiliation: "Hashira da Névoa",
     breathing: "Respiração da Névoa",
-    trivia: "Tornou-se um Hashira apenas dois meses após pegar em uma espada pela primeira vez.",
+    trivia:
+      "Tornou-se um Hashira apenas dois meses após pegar em uma espada pela primeira vez.",
   },
   {
     id: 10,
@@ -99,8 +115,10 @@ export const characters = [
     bio: "A Hashira do Amor. Entrou para os Caçadores de Demônios para encontrar um marido mais forte que ela. É incrivelmente forte e flexível.",
     affiliation: "Hashira do Amor",
     breathing: "Respiração do Amor",
-    trivia: "Sua espada é flexível como um chicote, uma arma que só ela consegue manejar.",
+    trivia:
+      "Sua espada é flexível como um chicote, uma arma que só ela consegue manejar.",
   },
+
   {
     id: 11,
     name: "Gyomei Himejima",
@@ -109,8 +127,10 @@ export const characters = [
     bio: "O Hashira da Pedra. Considerado o mais forte entre os Hashiras. É um gigante gentil e cego que está sempre em oração.",
     affiliation: "Hashira da Pedra",
     breathing: "Respiração da Pedra",
-    trivia: "Luta com um mangual e um machado conectados por uma corrente, armas extremamente difíceis de dominar.",
+    trivia:
+      "Luta com um mangual e um machado conectados por uma corrente, armas extremamente difíceis de dominar.",
   },
+
   {
     id: 12,
     name: "Sanemi Shinazugawa",
@@ -119,8 +139,10 @@ export const characters = [
     bio: "O Hashira do Vento. Agressivo e de pavio curto, seu corpo é coberto de cicatrizes e seu ódio por demônios é incomparável.",
     affiliation: "Hashira do Vento",
     breathing: "Respiração do Vento",
-    trivia: "Seu sangue é 'Marechi', um tipo sanguíneo raro que é extremamente intoxicante para demônios.",
+    trivia:
+      "Seu sangue é 'Marechi', um tipo sanguíneo raro que é extremamente intoxicante para demônios.",
   },
+
   {
     id: 13,
     name: "Obanai Iguro",
@@ -129,8 +151,10 @@ export const characters = [
     bio: "O Hashira da Serpente. Um espadachim rigoroso e misterioso, sempre acompanhado por sua serpente, Kaburamaru.",
     affiliation: "Hashira da Serpente",
     breathing: "Respiração da Serpente",
-    trivia: "Kaburamaru, sua serpente, o ajuda em combate, lendo os ataques do inimigo.",
+    trivia:
+      "Kaburamaru, sua serpente, o ajuda em combate, lendo os ataques do inimigo.",
   },
+
   // Luas Superiores
   {
     id: 14,
@@ -140,8 +164,10 @@ export const characters = [
     bio: "Lua Superior Um. O demônio mais poderoso sob o comando de Muzan, foi um Caçador de Demônios na era de ouro.",
     affiliation: "Lua Superior Um",
     breathing: "Respiração da Lua",
-    trivia: "É o irmão gêmeo de Yoriichi Tsugikuni, o criador da primeira respiração, a Respiração do Sol.",
+    trivia:
+      "É o irmão gêmeo de Yoriichi Tsugikuni, o criador da primeira respiração, a Respiração do Sol.",
   },
+
   {
     id: 15,
     name: "Doma",
@@ -152,6 +178,7 @@ export const characters = [
     breathing: "Kekkijutsu de Gelo",
     trivia: "Foi o demônio que matou a irmã de Shinobu e a mãe de Inosuke.",
   },
+
   {
     id: 16,
     name: "Akaza",
@@ -160,51 +187,109 @@ export const characters = [
     bio: "Lua Superior Três. Um mestre em artes marciais que busca a perfeição no combate e despreza os fracos.",
     affiliation: "Lua Superior Três",
     breathing: "Kekkijutsu de Combate",
-    trivia: "Por respeito à sua vida humana, ele se recusa a lutar, matar ou devorar mulheres.",
+    trivia:
+      "Por respeito à sua vida humana, ele se recusa a lutar, matar ou devorar mulheres.",
   },
-  // ... (outros personagens)
+
   {
     id: 17,
+    name: "Hantengu",
+    image: "/dev-demon-slayer/personagens/hantengu/char-hantengu.jpg",
+    banner: "/dev-demon-slayer/personagens/hantengu/banner-hantengu.jpg",
+    bio: "Lua Superior Quatro. Um demônio covarde que se divide em múltiplas formas, cada uma representando uma emoção extrema.",
+    affiliation: "Lua Superior Quatro",
+    breathing: "Kekkijutsu de Multiplicação Emocional",
+    trivia:
+      "Cada uma de suas formas possui uma personalidade e habilidades próprias, como raiva, prazer e tristeza.",
+  },
+
+  {
+    id: 18,
+    name: "Gyokko",
+    image: "/dev-demon-slayer/personagens/gyokko/char-gyokko.jpg",
+    banner: "/dev-demon-slayer/personagens/gyokko/banner-gyokko.jpg",
+    bio: "Lua Superior Cinco. Um demônio obcecado por arte grotesca, com um corpo que se move entre potes de porcelana.",
+    affiliation: "Lua Superior Cinco",
+    breathing: "Kekkijutsu de Manipulação de Vasos e Peixes",
+    trivia:
+      "Pode se teleportar entre potes e invocar monstros aquáticos criados a partir de seus potes demoníacos.",
+  },
+
+  {
+    id: 19,
+    name: "Daki",
+    image: "/dev-demon-slayer/personagens/daki/char-daki.jpg",
+    banner: "/dev-demon-slayer/personagens/daki/banner-daki.jpg",
+    bio: "Lua Superior Seis (com Gyutaro). Uma demônio vaidosa que se disfarça como oiran em distritos de entretenimento.",
+    affiliation: "Lua Superior Seis",
+    breathing: "Kekkijutsu de Faixas Assassinas",
+    trivia:
+      "Seu corpo é interligado ao de seu irmão Gyutaro, tornando-os quase invencíveis quando estão juntos.",
+  },
+
+  {
+    id: 20,
+    name: "Gyutaro",
+    image: "/dev-demon-slayer/personagens/gyutaro/char-gyutaro.jpg",
+    banner: "/dev-demon-slayer/personagens/gyutaro/banner-gyutaro.jpg",
+    bio: "Lua Superior Seis (com Daki). Um demônio com inveja profunda dos belos e dos bem-nascidos, usa foices venenosas.",
+    affiliation: "Lua Superior Seis",
+    breathing: "Kekkijutsu de Foices Envenenadas",
+    trivia:
+      "Mesmo com o corpo mutilado, sua regeneração é rápida e ele só morre se for decapitado ao mesmo tempo que Daki.",
+  },
+
+  // ... (outros personagens)
+  {
+    id: 21,
+    name: "Rui",
+    image: "/dev-demon-slayer/personagens/rui/char-rui.jpg",
+    banner: "/dev-demon-slayer/personagens/rui/banner-rui.jpg",
+    bio: "Lua Inferior Cinco. Um demônio que ansiava por laços familiares e criou uma 'família' forçada na Montanha Natagumo.",
+    affiliation: "Lua Inferior Cinco",
+    breathing: "Kekkijutsu de Teias",
+    trivia:
+      "Recebeu uma grande quantidade de sangue de Muzan, tornando-o tão forte quanto uma Lua Superior.",
+  },
+
+  {
+    id: 22,
+    name: "Kyogai",
+    image: "/dev-demon-slayer/personagens/kyogai/char-kyogai.jpg",
+    banner: "/dev-demon-slayer/personagens/kyogai/banner-kyogai.jpg",
+    bio: "Antiga Lua Inferior Seis. Um demônio que usa tambores em seu corpo para manipular o ambiente dentro de sua mansão.",
+    affiliation: "Ex-Lua Inferior Seis",
+    breathing: "Kekkijutsu de Manipulação de Espaço Sonoro",
+    trivia:
+      "Foi expulso por Muzan por não demonstrar mais crescimento em sua força demoníaca.",
+  },
+
+  {
+    id: 23,
     name: "Muzan Kibutsuji",
     image: "/dev-demon-slayer/personagens/muzan/char-muzan.jpeg",
     banner: "/dev-demon-slayer/personagens/muzan/banner-muzan.png",
     bio: "O Rei dos Demônios e o progenitor de todos os outros. É o principal antagonista, buscando a imortalidade perfeita.",
     affiliation: "Rei dos Demônios",
     breathing: "Origem dos Demônios",
-    trivia: "Pode alterar sua aparência, gênero e idade à vontade para se esconder na sociedade humana.",
+    trivia:
+      "Pode alterar sua aparência, gênero e idade à vontade para se esconder na sociedade humana.",
   },
+
   {
-    id: 18,
-    name: "Genya Shinazugawa",
-    image: "/dev-demon-slayer/personagens/genya/char-genya.jpg",
-    banner: "/dev-demon-slayer/personagens/genya/banner-genya.jpg",
-    bio: "Irmão mais novo de Sanemi. Não consegue usar Respirações, mas pode ganhar poder demoníaco ao devorar demônios.",
-    affiliation: "Caçador de Demônios",
-    breathing: "Nenhuma (Usa armas de fogo e poder demoníaco)",
-    trivia: "Sua capacidade de assimilação demoníaca é única entre os caçadores.",
-  },
-  {
-    id: 19,
-    name: "Sakonji Urokodaki",
-    image: "/dev-demon-slayer/personagens/sakonji/char-sakonji.jpg",
-    banner: "/dev-demon-slayer/personagens/sakonji/banner-sakonji.jpg",
-    bio: "Ex-Hashira da Água e mestre de Tanjiro e Giyu. Usa uma máscara de tengu para esconder seu rosto gentil.",
-    affiliation: "Treinador / Ex-Hashira",
-    breathing: "Respiração da Água",
-    trivia: "Todos os seus alunos usam máscaras de raposa esculpidas por ele como amuleto de proteção.",
-  },
-  {
-    id: 20,
+    id: 24,
     name: "Tamayo",
     image: "/dev-demon-slayer/personagens/tamayo/char-tamayo.jpg",
     banner: "/dev-demon-slayer/personagens/tamayo/banner-tamayo.jpeg",
     bio: "Uma demônio médica que se libertou do controle de Muzan e dedica sua existência a encontrar uma cura e derrotá-lo.",
     affiliation: "Demônio Aliada",
     breathing: "Kekkijutsu de Encantamento Sanguíneo",
-    trivia: "Modificou seu corpo e o de Yushiro para sobreviver com uma quantidade mínima de sangue humano.",
+    trivia:
+      "Modificou seu corpo e o de Yushiro para sobreviver com uma quantidade mínima de sangue humano.",
   },
+
   {
-    id: 21,
+    id: 25,
     name: "Yushiro",
     image: "/dev-demon-slayer/personagens/yushiro/char-yushiro.jpg",
     banner: "/dev-demon-slayer/personagens/yushiro/banner-yushiro.jpg",
@@ -214,80 +299,42 @@ export const characters = [
     trivia:
       "Sua arte demoníaca permite que ele oculte ou revele a presença de pessoas e objetos usando talismãs de papel.",
   },
-  {
-    id: 22,
-    name: "Rui",
-    image: "/dev-demon-slayer/personagens/rui/char-rui.jpg",
-    banner: "/dev-demon-slayer/personagens/rui/banner-rui.jpg",
-    bio: "Lua Inferior Cinco. Um demônio que ansiava por laços familiares e criou uma 'família' forçada na Montanha Natagumo.",
-    affiliation: "Lua Inferior Cinco",
-    breathing: "Kekkijutsu de Teias",
-    trivia: "Recebeu uma grande quantidade de sangue de Muzan, tornando-o tão forte quanto uma Lua Superior.",
-  },
 
-  //Add new characters
-  {
-    id: 23,
-    name: "Hantengu",
-    image: "/dev-demon-slayer/personagens/hantengu/char-hantengu.jpg",
-    banner: "/dev-demon-slayer/personagens/hantengu/banner-hantengu.jpg",
-    bio: "Lua Superior Quatro. Um demônio covarde que se divide em múltiplas formas, cada uma representando uma emoção extrema.",
-    affiliation: "Lua Superior Quatro",
-    breathing: "Kekkijutsu de Multiplicação Emocional",
-    trivia: "Cada uma de suas formas possui uma personalidade e habilidades próprias, como raiva, prazer e tristeza.",
-  },
-  {
-    id: 24,
-    name: "Gyokko",
-    image: "/dev-demon-slayer/personagens/gyokko/char-gyokko.jpg",
-    banner: "/dev-demon-slayer/personagens/gyokko/banner-gyokko.jpg",
-    bio: "Lua Superior Cinco. Um demônio obcecado por arte grotesca, com um corpo que se move entre potes de porcelana.",
-    affiliation: "Lua Superior Cinco",
-    breathing: "Kekkijutsu de Manipulação de Vasos e Peixes",
-    trivia: "Pode se teleportar entre potes e invocar monstros aquáticos criados a partir de seus potes demoníacos.",
-  },
-  {
-    id: 25,
-    name: "Daki",
-    image: "/dev-demon-slayer/personagens/daki/char-daki.jpg",
-    banner: "/dev-demon-slayer/personagens/daki/banner-daki.jpg",
-    bio: "Lua Superior Seis (com Gyutaro). Uma demônio vaidosa que se disfarça como oiran em distritos de entretenimento.",
-    affiliation: "Lua Superior Seis",
-    breathing: "Kekkijutsu de Faixas Assassinas",
-    trivia: "Seu corpo é interligado ao de seu irmão Gyutaro, tornando-os quase invencíveis quando estão juntos.",
-  },
   {
     id: 26,
-    name: "Gyutaro",
-    image: "/dev-demon-slayer/personagens/gyutaro/char-gyutaro.jpg",
-    banner: "/dev-demon-slayer/personagens/gyutaro/banner-gyutaro.jpg",
-    bio: "Lua Superior Seis (com Daki). Um demônio com inveja profunda dos belos e dos bem-nascidos, usa foices venenosas.",
-    affiliation: "Lua Superior Seis",
-    breathing: "Kekkijutsu de Foices Envenenadas",
-    trivia: "Mesmo com o corpo mutilado, sua regeneração é rápida e ele só morre se for decapitado ao mesmo tempo que Daki.",
-  },
-  {
-    id: 27,
-    name: "Kyogai",
-    image: "/dev-demon-slayer/personagens/kyogai/char-kyogai.jpg",
-    banner: "/dev-demon-slayer/personagens/kyogai/banner-kyogai.jpg",
-    bio: "Antiga Lua Inferior Seis. Um demônio que usa tambores em seu corpo para manipular o ambiente dentro de sua mansão.",
-    affiliation: "Ex-Lua Inferior Seis",
-    breathing: "Kekkijutsu de Manipulação de Espaço Sonoro",
-    trivia: "Foi expulso por Muzan por não demonstrar mais crescimento em sua força demoníaca.",
-  },
-  {
-    id: 28,
     name: "Sabito",
     image: "/dev-demon-slayer/personagens/sabito/char-sabito.jpg",
     banner: "/dev-demon-slayer/personagens/sabito/banner-sabito.jpg",
     bio: "Discípulo de Urokodaki e espírito mentor de Tanjiro durante seu treinamento. Morreu enfrentando o demônio da mão.",
     affiliation: "Ex-Caçador de Demônios",
     breathing: "Respiração da Água",
-    trivia: "Usava uma máscara de raposa com uma cicatriz como a sua, e é lembrado como um guerreiro promissor e altruísta.",
+    trivia:
+      "Usava uma máscara de raposa com uma cicatriz como a sua, e é lembrado como um guerreiro promissor e altruísta.",
   },
 
-  //Add Hotaru and Kagaya
+  {
+    id: 27,
+    name: "Sakonji Urokodaki",
+    image: "/dev-demon-slayer/personagens/sakonji/char-sakonji.jpg",
+    banner: "/dev-demon-slayer/personagens/sakonji/banner-sakonji.jpg",
+    bio: "Ex-Hashira da Água e mestre de Tanjiro e Giyu. Usa uma máscara de tengu para esconder seu rosto gentil.",
+    affiliation: "Treinador / Ex-Hashira",
+    breathing: "Respiração da Água",
+    trivia:
+      "Todos os seus alunos usam máscaras de raposa esculpidas por ele como amuleto de proteção.",
+  },
+
+  {
+    id: 28,
+    name: "Genya Shinazugawa",
+    image: "/dev-demon-slayer/personagens/genya/char-genya.jpg",
+    banner: "/dev-demon-slayer/personagens/genya/banner-genya.jpg",
+    bio: "Irmão mais novo de Sanemi. Não consegue usar Respirações, mas pode ganhar poder demoníaco ao devorar demônios.",
+    affiliation: "Caçador de Demônios",
+    breathing: "Nenhuma (Usa armas de fogo e poder demoníaco)",
+    trivia:
+      "Sua capacidade de assimilação demoníaca é única entre os caçadores.",
+  },
 
   {
     id: 29,
@@ -297,8 +344,10 @@ export const characters = [
     bio: "Ferreiro responsável pela katana de Tanjiro. É obsessivo por sua arte e facilmente irritável quando suas espadas são danificadas.",
     affiliation: "Vila dos Ferreiros",
     breathing: "Nenhuma",
-    trivia: "Usa uma máscara o tempo todo e alcança um nível de concentração extrema ao forjar, quase como um transe.",
+    trivia:
+      "Usa uma máscara o tempo todo e alcança um nível de concentração extrema ao forjar, quase como um transe.",
   },
+
   {
     id: 30,
     name: "Kagaya Ubuyashiki",
@@ -307,9 +356,10 @@ export const characters = [
     bio: "Líder dos Caçadores de Demônios. Um homem calmo, sábio e gentil, que inspira respeito e confiança entre os Hashiras.",
     affiliation: "Líder da Corporação dos Caçadores de Demônios",
     breathing: "Nenhuma",
-    trivia: "Possui uma doença hereditária que o enfraquece fisicamente, mas sua presença espiritual é extremamente poderosa.",
+    trivia:
+      "Possui uma doença hereditária que o enfraquece fisicamente, mas sua presença espiritual é extremamente poderosa.",
   },
-]
+];
 
 export const seasons = [
   {
@@ -370,7 +420,8 @@ export const seasons = [
         epNumber: 8,
         title: "O Cheiro da Sedução",
         image: "/placeholder.svg?width=400&height=225",
-        summary: "Tanjiro, Zenitsu e Inosuke enfrentam demônios na casa de Kyogai, onde conhecem Teruko e Shoichi.",
+        summary:
+          "Tanjiro, Zenitsu e Inosuke enfrentam demônios na casa de Kyogai, onde conhecem Teruko e Shoichi.",
       },
       {
         epNumber: 9,
@@ -397,7 +448,8 @@ export const seasons = [
         epNumber: 12,
         title: "O Javali Orgulhoso, Inosuke Hashibira",
         image: "/placeholder.svg?width=400&height=225",
-        summary: "Inosuke desafia Tanjiro para uma luta, revelando sua personalidade selvagem e competitiva.",
+        summary:
+          "Inosuke desafia Tanjiro para uma luta, revelando sua personalidade selvagem e competitiva.",
       },
       {
         epNumber: 13,
@@ -424,7 +476,8 @@ export const seasons = [
         epNumber: 16,
         title: "Deixando um Amigo para Trás",
         image: "/placeholder.svg?width=400&height=225",
-        summary: "Zenitsu é separado do grupo e enfrenta o demônio aranha mais velho, revelando seu medo e coragem.",
+        summary:
+          "Zenitsu é separado do grupo e enfrenta o demônio aranha mais velho, revelando seu medo e coragem.",
       },
       {
         epNumber: 17,
@@ -542,7 +595,8 @@ export const seasons = [
         epNumber: 6,
         title: "Akaza",
         image: "/placeholder.svg?width=400&height=225",
-        summary: "Após derrotar Enmu, Akaza (Lua Superior Três) aparece e desafia Rengoku para uma batalha mortal.",
+        summary:
+          "Após derrotar Enmu, Akaza (Lua Superior Três) aparece e desafia Rengoku para uma batalha mortal.",
       },
       {
         epNumber: 7,
@@ -805,4 +859,4 @@ export const seasons = [
       },
     ],
   },
-]
+];
