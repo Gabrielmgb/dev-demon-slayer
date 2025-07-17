@@ -3,7 +3,8 @@ export const characters = [
   {
     id: 1,
     name: "Tanjiro Kamado",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/tanjiro/char-tanjiro.jpg",
+    banner: "/personagens/tanjiro/banner-tanjiro.jpg",
     bio: "Um jovem bondoso que se torna um Caçador de Demônios para vingar sua família e encontrar uma cura para sua irmã, Nezuko.",
     affiliation: "Caçador de Demônios",
     breathing: "Respiração da Água e Hinokami Kagura",
@@ -12,7 +13,8 @@ export const characters = [
   {
     id: 2,
     name: "Nezuko Kamado",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/nezuko/char-nezuko.jpg",
+    banner: "/personagens/nezuko/banner-nezuko.jpg",
     bio: "A irmã mais nova de Tanjiro, transformada em um demônio. Ela luta para proteger os humanos e resiste à necessidade de consumir sangue.",
     affiliation: "Demônio",
     breathing: "Kekkijutsu (Arte Demoníaca de Sangue)",
@@ -21,7 +23,8 @@ export const characters = [
   {
     id: 3,
     name: "Zenitsu Agatsuma",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/zenitsu/char-zenitsu.jpg",
+    banner: "/personagens/zenitsu/banner-zenitsu.jpg",
     bio: "Um Caçador de Demônios medroso que só consegue lutar quando está inconsciente ou dormindo, revelando um poder imenso.",
     affiliation: "Caçador de Demônios",
     breathing: "Respiração do Trovão",
@@ -30,7 +33,8 @@ export const characters = [
   {
     id: 4,
     name: "Inosuke Hashibira",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/inosuke/char-inosuke.jpg",
+    banner: "/personagens/inosuke/banner-inosuke.jpg",
     bio: "Criado por javalis nas montanhas, Inosuke é um lutador selvagem e orgulhoso, com um estilo de luta único e imprevisível.",
     affiliation: "Caçador de Demônios",
     breathing: "Respiração da Besta",
@@ -40,7 +44,8 @@ export const characters = [
   {
     id: 5,
     name: "Giyu Tomioka",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/giyu/char-giyu.jpg",
+    banner: "/personagens/giyu/banner-giyu.jpg",
     bio: "O Hashira da Água. Um espadachim poderoso e reservado que foi o primeiro a encontrar Tanjiro e Nezuko após a tragédia.",
     affiliation: "Hashira da Água",
     breathing: "Respiração da Água",
@@ -49,7 +54,8 @@ export const characters = [
   {
     id: 6,
     name: "Shinobu Kocho",
-    image: "/placeholder.svg?width=300&height=400",
+    image: "/personagens/shinobu/char-shinobu.jpg",
+    banner: "/personagens/shinobu/banner-shinobu.jpg",
     bio: "A Hashira do Inseto. Apesar de sua aparência calma e amigável, ela é extremamente letal, usando venenos para derrotar demônios.",
     affiliation: "Hashira do Inseto",
     breathing: "Respiração do Inseto",
@@ -59,6 +65,7 @@ export const characters = [
     id: 7,
     name: "Kyojuro Rengoku",
     image: "/placeholder.svg?width=300&height=400",
+    banner: "/personagens/inosuke/banner-inosuke.jpg",
     bio: "O Hashira das Chamas. Um guerreiro carismático e otimista com um inabalável senso de dever e justiça.",
     affiliation: "Hashira das Chamas",
     breathing: "Respiração das Chamas",
@@ -224,6 +231,171 @@ export const seasons = [
         summary:
           "Seguindo o conselho de Giyu, Tanjiro viaja para o Monte Sagiri para encontrar um treinador que possa prepará-lo para a Seleção Final.",
       },
+      {
+        epNumber: 3,
+        title: "Sabito e Makomo",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Durante o treinamento, Tanjiro encontra os espíritos de Sabito e Makomo, antigos alunos de Urokodaki que o ajudam a se preparar.",
+      },
+      {
+        epNumber: 4,
+        title: "Seleção Final",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro participa da Seleção Final no Monte Fujikasane, onde deve sobreviver por sete dias entre demônios capturados.",
+      },
+      {
+        epNumber: 5,
+        title: "Minha Própria Lâmina de Aço",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro recebe sua primeira missão como Caçador de Demônios e conhece Haganezuka, o ferreiro que forjará sua espada Nichirin.",
+      },
+      {
+        epNumber: 6,
+        title: "Demônio Devorador de Humanos",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Em sua primeira missão oficial, Tanjiro enfrenta um demônio que devora jovens e salva Kazumi, mostrando sua compaixão única.",
+      },
+      {
+        epNumber: 7,
+        title: "Muichiro Tokito",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro conhece Muichiro Tokito e outros caçadores, começando a entender a hierarquia da Corporação de Caçadores de Demônios.",
+      },
+      {
+        epNumber: 8,
+        title: "O Cheiro da Sedução",
+        image: "/placeholder.svg?width=400&height=225",
+        summary: "Tanjiro, Zenitsu e Inosuke enfrentam demônios na casa de Kyogai, onde conhecem Teruko e Shoichi.",
+      },
+      {
+        epNumber: 9,
+        title: "Demônio Tambor",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A batalha contra Kyogai, o demônio dos tambores, testa as habilidades de Tanjiro em um ambiente em constante mudança.",
+      },
+      {
+        epNumber: 10,
+        title: "Sempre Proteger",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro derrota Kyogai e mostra respeito pelo demônio derrotado, demonstrando sua natureza compassiva única.",
+      },
+      {
+        epNumber: 11,
+        title: "Tsuzumi Mansion",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "O trio se recupera dos ferimentos e Tanjiro reflete sobre suas experiências, fortalecendo sua determinação.",
+      },
+      {
+        epNumber: 12,
+        title: "O Javali Orgulhoso, Inosuke Hashibira",
+        image: "/placeholder.svg?width=400&height=225",
+        summary: "Inosuke desafia Tanjiro para uma luta, revelando sua personalidade selvagem e competitiva.",
+      },
+      {
+        epNumber: 13,
+        title: "Algo Mais Importante que a Vida",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Zenitsu revela seu verdadeiro poder quando está inconsciente, salvando uma criança de um demônio aranha.",
+      },
+      {
+        epNumber: 14,
+        title: "A Casa com o Brasão de Glicínia",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "O trio se recupera em uma casa segura e conhece mais sobre a rede de apoio aos Caçadores de Demônios.",
+      },
+      {
+        epNumber: 15,
+        title: "Monte Natagumo",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro, Zenitsu e Inosuke chegam ao Monte Natagumo, onde enfrentarão a família de demônios aranha liderada por Rui.",
+      },
+      {
+        epNumber: 16,
+        title: "Deixando um Amigo para Trás",
+        image: "/placeholder.svg?width=400&height=225",
+        summary: "Zenitsu é separado do grupo e enfrenta o demônio aranha mais velho, revelando seu medo e coragem.",
+      },
+      {
+        epNumber: 17,
+        title: "Você Deve Continuar Vivendo",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Inosuke luta contra o demônio aranha pai enquanto Tanjiro enfrenta a irmã aranha, mostrando compaixão por ela.",
+      },
+      {
+        epNumber: 18,
+        title: "Um Vínculo Forjado por Água",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Giyu Tomioka chega ao Monte Natagumo e demonstra o verdadeiro poder de um Hashira ao derrotar facilmente o demônio pai.",
+      },
+      {
+        epNumber: 19,
+        title: "Hinokami",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro desperta a Dança do Deus do Fogo (Hinokami Kagura) pela primeira vez durante sua batalha contra Rui.",
+      },
+      {
+        epNumber: 20,
+        title: "Família Falsa",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A batalha final contra Rui revela a trágica história da família aranha forçada e o desejo de Rui por laços familiares verdadeiros.",
+      },
+      {
+        epNumber: 21,
+        title: "Contra as Regras do Corpo de Caçadores de Demônios",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro e Nezuko são levados perante os Hashiras para julgamento por ele carregar um demônio consigo.",
+      },
+      {
+        epNumber: 22,
+        title: "Mestre",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "O julgamento de Tanjiro e Nezuko continua, com Kagaya Ubuyashiki, o líder da corporação, defendendo-os.",
+      },
+      {
+        epNumber: 23,
+        title: "Reunião dos Hashiras",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Nezuko prova sua humanidade ao resistir ao sangue humano, convencendo alguns Hashiras de sua singularidade.",
+      },
+      {
+        epNumber: 24,
+        title: "Treinamento de Reabilitação Funcional",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro, Zenitsu e Inosuke começam o treinamento de reabilitação na Mansão das Borboletas com Kanao e as garotas.",
+      },
+      {
+        epNumber: 25,
+        title: "Tsuguko, Kanao Tsuyuri",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro treina com Kanao e aprende sobre sua história, enquanto se prepara para futuras missões mais perigosas.",
+      },
+      {
+        epNumber: 26,
+        title: "Novo Começo",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A primeira temporada termina com Tanjiro, Zenitsu e Inosuke partindo para uma nova missão, mais fortes e unidos.",
+      },
     ],
   },
   {
@@ -236,14 +408,125 @@ export const seasons = [
         title: "Hashira das Chamas, Kyojuro Rengoku",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro, Nezuko, Zenitsu e Inosuke embarcam no Trem Infinito para investigar uma série de desaparecimentos misteriosos.",
+          "Tanjiro, Nezuko, Zenitsu e Inosuke embarcam no Trem Infinito para investigar desaparecimentos misteriosos junto com Rengoku.",
+      },
+      {
+        epNumber: 2,
+        title: "Sono Profundo",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Os caçadores adormecem no trem e são presos em sonhos criados por Enmu, a Lua Inferior Um, que manipula seus sonhos.",
+      },
+      {
+        epNumber: 3,
+        title: "Deveria Ter Sido Você",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro luta para despertar de seu sonho onde sua família está viva, enfrentando a dor de deixar essa ilusão para trás.",
+      },
+      {
+        epNumber: 4,
+        title: "Insônia",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Nezuko ajuda Tanjiro a despertar, e juntos começam a acordar os outros passageiros presos nos sonhos de Enmu.",
+      },
+      {
+        epNumber: 5,
+        title: "Rumo ao Núcleo",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro e Inosuke descobrem que Enmu se fundiu com o trem inteiro e devem encontrar seu núcleo para derrotá-lo.",
+      },
+      {
+        epNumber: 6,
+        title: "Akaza",
+        image: "/placeholder.svg?width=400&height=225",
+        summary: "Após derrotar Enmu, Akaza (Lua Superior Três) aparece e desafia Rengoku para uma batalha mortal.",
+      },
+      {
+        epNumber: 7,
+        title: "Coração em Chamas",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A batalha épica entre Rengoku e Akaza atinge seu clímax, com Rengoku lutando até o fim para proteger todos.",
       },
       {
         epNumber: 8,
         title: "Hashira do Som, Tengen Uzui",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "A missão agora é no Distrito do Entretenimento, onde o extravagante Hashira do Som, Tengen Uzui, precisa de ajuda para encontrar suas esposas.",
+          "Tengen Uzui recruta Tanjiro, Zenitsu e Inosuke para uma missão no Distrito do Entretenimento para encontrar suas esposas.",
+      },
+      {
+        epNumber: 9,
+        title: "Infiltração no Distrito do Entretenimento",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Os três garotos se disfarçam de mulheres para se infiltrar nas casas de gueixas e investigar desaparecimentos.",
+      },
+      {
+        epNumber: 10,
+        title: "O que Você Está",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Inosuke descobre pistas sobre os demônios no distrito, enquanto Zenitsu enfrenta seus próprios desafios na infiltração.",
+      },
+      {
+        epNumber: 11,
+        title: "Ninguém Chorará por Você",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Daki, a Lua Superior Seis, é revelada e mostra seu verdadeiro poder, dominando facilmente Tanjiro inicialmente.",
+      },
+      {
+        epNumber: 12,
+        title: "Transformação",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Nezuko desperta seu poder demoníaco completo para proteger as pessoas, entrando em uma forma mais poderosa.",
+      },
+      {
+        epNumber: 13,
+        title: "Coisas Nunca Mudam",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A batalha entre Nezuko e Daki se intensifica, revelando mais sobre os poderes únicos de ambas as demônios.",
+      },
+      {
+        epNumber: 14,
+        title: "Sobreposição de Memórias",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Gyutaro, o verdadeiro Lua Superior Seis, emerge do corpo de Daki, revelando ser o irmão mais velho e mais poderoso.",
+      },
+      {
+        epNumber: 15,
+        title: "Reunião",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tengen se junta à batalha contra os irmãos demônios, mas mesmo com sua experiência, a luta é extremamente difícil.",
+      },
+      {
+        epNumber: 16,
+        title: "Derrotando uma Lua Superior",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A batalha final contra Gyutaro e Daki exige que todos trabalhem juntos, com Tengen perdendo um braço no processo.",
+      },
+      {
+        epNumber: 17,
+        title: "Nunca Desista",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro consegue decapitar Daki enquanto Tengen e os outros decapitam Gyutaro simultaneamente, derrotando os irmãos.",
+      },
+      {
+        epNumber: 18,
+        title: "Vida",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A história trágica de Gyutaro e Daki é revelada, mostrando como se tornaram demônios para sobreviver na pobreza.",
       },
     ],
   },
@@ -257,7 +540,77 @@ export const seasons = [
         title: "O Sonho de Alguém",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro viaja para a Vila dos Ferreiros para consertar sua espada e acaba se envolvendo em uma batalha contra duas Luas Superiores.",
+          "Tanjiro viaja para a Vila dos Ferreiros para consertar sua espada quebrada e conhece Kotetsu, um jovem da vila.",
+      },
+      {
+        epNumber: 2,
+        title: "Yoriichi Tipo Zero",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro treina com um boneco mecânico antigo chamado Yoriichi Tipo Zero, descobrindo uma espada escondida em seu interior.",
+      },
+      {
+        epNumber: 3,
+        title: "A Espada de Mais de 300 Anos",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A espada antiga revela ser especial, enquanto Muichiro recupera suas memórias perdidas durante seu próprio treinamento.",
+      },
+      {
+        epNumber: 4,
+        title: "Obrigado, Tokito-kun",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Muichiro enfrenta Gyokko (Lua Superior Cinco) e desperta seu verdadeiro poder, derrotando o demônio com facilidade.",
+      },
+      {
+        epNumber: 5,
+        title: "Hashira Brilhante",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A batalha de Muichiro contra Gyokko atinge seu clímax, com o Hashira da Névoa mostrando sua verdadeira força.",
+      },
+      {
+        epNumber: 6,
+        title: "Não Está Bem?",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro, Nezuko e Genya enfrentam Hantengu (Lua Superior Quatro) e suas múltiplas personalidades divididas.",
+      },
+      {
+        epNumber: 7,
+        title: "Hashira do Amor Mitsuri Kanroji",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Mitsuri se junta à batalha contra Hantengu, mostrando sua força incrível e técnicas únicas da Respiração do Amor.",
+      },
+      {
+        epNumber: 8,
+        title: "Mu",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A forma verdadeira de Hantengu é revelada como um demônio minúsculo e covarde, forçando uma caça desesperada.",
+      },
+      {
+        epNumber: 9,
+        title: "Mitsuri Kanroji",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A história de Mitsuri é revelada, mostrando como ela se tornou uma Hashira e encontrou seu lugar na corporação.",
+      },
+      {
+        epNumber: 10,
+        title: "Amor Hashira Mitsuri Kanroji",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Mitsuri desperta sua marca de demônio e luta com toda sua força para proteger a vila e derrotar Hantengu.",
+      },
+      {
+        epNumber: 11,
+        title: "Uma Conexão Ligada pelo Amanhecer",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "A batalha final contra Hantengu culmina com Tanjiro e Nezuko trabalhando juntos para derrotar o demônio antes do amanhecer.",
       },
     ],
   },
@@ -271,7 +624,84 @@ export const seasons = [
         title: "Para Derrotar Muzan Kibutsuji",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Os Hashiras se reúnem para iniciar um treinamento intensivo com todos os Caçadores de Demônios, visando fortalecer suas forças para a batalha final.",
+          "Os Hashiras se reúnem para planejar o treinamento intensivo de todos os caçadores, preparando-se para a batalha final.",
+      },
+      {
+        epNumber: 2,
+        title: "Treinamento da Água e Treinamento dos Músculos",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro inicia o treinamento com Uzui (resistência) e depois com Muichiro (velocidade), enfrentando desafios extremos.",
+      },
+      {
+        epNumber: 3,
+        title: "Hashira Treinando Juntos",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "O treinamento continua com Mitsuri (flexibilidade) e depois com Obanai (técnica de espada), cada um mais difícil que o anterior.",
+      },
+      {
+        epNumber: 4,
+        title: "Para Derrotar Muzan Kibutsuji",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Tanjiro treina com Sanemi (combate real) e finalmente com Gyomei (força física), completando o treinamento dos Hashiras.",
+      },
+      {
+        epNumber: 5,
+        title: "Eu Sou Diferente de Você",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Genya e Sanemi confrontam seu passado familiar traumático, revelando a história por trás de sua relação conturbada.",
+      },
+      {
+        epNumber: 6,
+        title: "O Hashira Mais Forte",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Gyomei revela sua história trágica e como se tornou o Hashira mais forte, enquanto treina Tanjiro e Genya.",
+      },
+      {
+        epNumber: 7,
+        title: "Pedra Hashira Gyomei Himejima",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "O passado de Gyomei é completamente revelado, mostrando como perdeu a visão e se tornou um caçador de demônios.",
+      },
+      {
+        epNumber: 8,
+        title: "A Chegada da Manhã",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "O treinamento é interrompido quando Muzan finalmente ataca, começando a batalha final que todos estavam esperando.",
+      },
+    ],
+  },
+  {
+    id: 5,
+    seasonNumber: 5,
+    title: "Trilogia de Filmes: Castelo Infinito",
+    episodes: [
+      {
+        epNumber: 1,
+        title: "Filme 1: A Invasão do Castelo Infinito",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Muzan invoca o Castelo Infinito, separando os caçadores. Kokushibo enfrenta Muichiro, Sanemi e Gyomei. Doma luta contra Shinobu, Kanao e Inosuke.",
+      },
+      {
+        epNumber: 2,
+        title: "Filme 2: As Batalhas dos Hashiras",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Shinobu se sacrifica para envenenar Doma. Akaza enfrenta Giyu e Tanjiro. Kokushibo revela seu passado como irmão de Yoriichi.",
+      },
+      {
+        epNumber: 3,
+        title: "Filme 3: O Confronto Final com Muzan",
+        image: "/placeholder.svg?width=400&height=225",
+        summary:
+          "Todos os Hashiras sobreviventes enfrentam Muzan em sua forma final. A batalha continua até o amanhecer, decidindo o destino da humanidade.",
       },
     ],
   },

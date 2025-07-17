@@ -37,7 +37,7 @@ export default function PersonagensPage() {
               <div className="grid md:grid-cols-2 gap-4 md:gap-6 mt-4">
                 <div className="relative w-full h-64 md:h-96 rounded-lg overflow-hidden border-2 border-red-900/50">
                   <img
-                    src={char.image || "/placeholder.svg?width=300&height=400"}
+                    src={char.banner || "/placeholder.svg?width=300&height=400"}
                     alt={char.name}
                     className="w-full h-full object-cover"
                   />
