@@ -286,6 +286,29 @@ export const characters = [
     breathing: "Respiração da Água",
     trivia: "Usava uma máscara de raposa com uma cicatriz como a sua, e é lembrado como um guerreiro promissor e altruísta.",
   },
+
+  //Add Hotaru and Kagaya
+
+  {
+    id: 29,
+    name: "Hotaru Haganezuka",
+    image: "/dev-demon-slayer/personagens/haganezuka/char-haganezuka.jpg",
+    banner: "/dev-demon-slayer/personagens/haganezuka/banner-haganezuka.jpg",
+    bio: "Ferreiro responsável pela katana de Tanjiro. É obsessivo por sua arte e facilmente irritável quando suas espadas são danificadas.",
+    affiliation: "Vila dos Ferreiros",
+    breathing: "Nenhuma",
+    trivia: "Usa uma máscara o tempo todo e alcança um nível de concentração extrema ao forjar, quase como um transe.",
+  },
+  {
+    id: 30,
+    name: "Kagaya Ubuyashiki",
+    image: "/dev-demon-slayer/personagens/kagaya/char-kagaya.jpg",
+    banner: "/dev-demon-slayer/personagens/kagaya/banner-kagaya.jpg",
+    bio: "Líder dos Caçadores de Demônios. Um homem calmo, sábio e gentil, que inspira respeito e confiança entre os Hashiras.",
+    affiliation: "Líder da Corporação dos Caçadores de Demônios",
+    breathing: "Nenhuma",
+    trivia: "Possui uma doença hereditária que o enfraquece fisicamente, mas sua presença espiritual é extremamente poderosa.",
+  },
 ]
 
 export const seasons = [
