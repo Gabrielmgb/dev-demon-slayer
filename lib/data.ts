@@ -124,8 +124,8 @@ export const characters = [
   {
     id: 13,
     name: "Obanai Iguro",
-    image: "/personagens/obanai/char-obanai.jpg",
-    banner: "/personagens/obanai/banner-obanai.jpg",
+    image: "/dev-demon-slayer/personagens/obanai/char-obanai.jpg",
+    banner: "/dev-demon-slayer/personagens/obanai/banner-obanai.jpg",
     bio: "O Hashira da Serpente. Um espadachim rigoroso e misterioso, sempre acompanhado por sua serpente, Kaburamaru.",
     affiliation: "Hashira da Serpente",
     breathing: "Respiração da Serpente",
