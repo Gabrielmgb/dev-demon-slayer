@@ -405,147 +405,147 @@ export const seasons = [
       {
         epNumber: 6,
         title: "O espadachim que acompanha um oni",
-        image: "/episodios/t1-ep6.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep6.jpg",
         summary:
           "Tanjiro parte para sua primeira tarefa como Exterminador: investigar uma série de desaparecimentos de garotas jovens, numa cidade. O que ele aprendeu com Urokodaki será o suficiente?",
       },
       {
         epNumber: 7,
         title: "Muzan Kibutsuji",
-        image: "/episodios/t1-ep7.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep7.jpg",
         summary:
           "Tanjiro agora tem um alvo claro: Muzan Kibutsuji, o oni capaz de converter humanos normais em demônios comedores de pessoas. Mas a caça não será tão simples quanto ele imagina.",
       },
       {
         epNumber: 8,
         title: "O aroma do sangue sedutor",
-        image: "/episodios/t1-ep8.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep8.jpg",
         summary:
           "Tanjiro deixa Muzan Kibutsuji escapar, mas encontra outros aliados inesperados em Tóquio: Tamayo e Yushiro, dois médicos... que também são onis.",
       },
       {
         epNumber: 9,
         title: "O oni da temari e o oni da flecha",
-        image: "/episodios/t1-ep9.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep9.jpg",
         summary:
           "Tanjiro está sob o ataque de dois onis muito mais fortes de todos que ele havia visto até agora. E além de lutar, ele ainda precisa se preocupar em proteger Yushiro e Tamayo.",
       },
       {
         epNumber: 10,
         title: "Juntos para sempre",
-        image: "/episodios/t1-ep10.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep10.jpg",
         summary:
           "O ataque de Yahaba e Susamaru continua implacável, e Tanjiro continua extraindo o máximo de sua força para conseguir vencer. E em meio à batalha, é revelado mais sobre a natureza de Kibutsuji.",
       },
       {
         epNumber: 11,
         title: "A mansão do tsuzumi",
-        image: "/episodios/t1-ep11.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep11.jpg",
         summary:
           "Tanjiro reencontra-se com Zenitsu Agatsuma, um dos sobreviventes da Seleção Final. Mas, diferente do que se esperaria de um herói, o rapaz loiro é mais medroso e mulherengo do que a média..",
       },
       {
         epNumber: 12,
         title: "O javali mostra as presas, enquanto Zenitsu dorme",
-        image: "/episodios/t1-ep12.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep12.jpg",
         summary:
           "Tanjiro, Zenitsu e as crianças ainda estão presos na mansão, e situação se complica quando um homem com cabeça de javali aparece armado até os dentes - inclusive os dentes.",
       },
       {
         epNumber: 13,
         title: "Algo Mais Importante que a Vida",
-        image: "/episodios/t1-ep13.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep13.jpg",
         summary:
           "Prestes a quebrar, Tanjiro continua enfrentando o oni dos tambores com tudo o que tem. E essa forte determinação não escapa aos ouvidos atentos de Zenitsu.",
       },
       {
         epNumber: 14,
         title: "A Casa com o Brasão de Glicínia",
-        image: "/episodios/t1-ep14.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep14.jpg",
         summary:
           "O caos da mansão finalmente se aquieta, e Tanjiro, Zenitsu e o recém-chegado homem da cabeça de javali começam a se conhecer melhor. O que provavelmente vai levar a mais caos.",
       },
       {
         epNumber: 15,
         title: "Monte Natagumo",
-        image: "/episodios/t1-ep15.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep15.jpg",
         summary:
           "Depois de um breve descanso, Tanjiro, Zenitsu e Inosuke recebem sua próxima missão: investigar uma montanha sinistra e perigosa... os três juntos.",
       },
       {
         epNumber: 16,
         title: "Deixar outra pessoa ir na sua frente",
-        image: "/episodios/t1-ep16.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep16.jpg",
         summary:
           "Tanjiro e Inosuke continuam enfrentando as aranhas mortíferas do monte Natagumo, e o guereiro da cabeça de javali finalmente começa a entender o que motiva seu parceiro no campo de batalha.",
       },
       {
         epNumber: 17,
         title: "Seja mestre de uma única coisa",
-        image: "/episodios/t1-ep17.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep17.jpg",
         summary:
           "A batalha contra as aranhas do Monte Natagumo continua, e agora quem precisa finalmente encarar seus medos é Zenitsu - o que o levará numa viagem ao seu próprio passado.",
       },
       {
         epNumber: 18,
         title: "Um laço falso",
-        image: "/episodios/t1-ep18.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep18.jpg",
         summary:
           "A família de onis do Monte Natagumo continua causando problemas para Tanjiro e seus amigos. Quando a situação torna-se desesperadora, o exterminador percebe que talvez aquela não seja uma família de verdade.",
       },
       {
         epNumber: 19,
         title: "Hinokami",
-        image: "/episodios/t1-ep19.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep19.jpg",
         summary:
           "Finalmente é revelada a identidade do membro dos Doze Kizuki dentre a família de aranhas do monte Natagumo - e isso faz Tanjiro lembrar do próprio passado, quando seu pai era vivo.",
       },
       {
         epNumber: 20,
         title: "Família de faz-de-conta",
-        image: "/episodios/t1-ep20.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep20.jpg",
         summary:
           "Ainda há sobreviventes na família de onis aranha do monte Natagumo - e é através de um deles que descobrimos a verdade por trás dessa estranha união entre estranhos.",
       },
       {
         epNumber: 21,
         title: "Contra as regras do esquadrão",
-        image: "/episodios/t1-ep21.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep21.jpg",
         summary:
           "Giyu Tomioka e Kocho Shinobu são dois dos Hashiras, a classe mais elevada do Esquadrão de Exterminadores. Mas uma violação de regras faz eles se virarem um contra o outro.",
       },
       {
         epNumber: 22,
         title: "O senhor da mansão",
-        image: "/episodios/t1-ep22.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep22.jpg",
         summary:
           "Os Hashiras, as figuras mais proeminentes de todo o Esquadrão de Exterminadores, finalmente se apresentam. E além de poderosos, parecem ser um grupo de guerreiros extremamente excêntricos.",
       },
       {
         epNumber: 23,
         title: "Reunião dos Hashiras",
-        image: "/episodios/t1-ep23.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep23.jpg",
         summary:
           "Resolvida a questão sobre a coexistência pacífica de Nezuko com os humanos, começa o verdadeiro assunto da reunião com o mestre: Muzan Kibutsuji e o aumento nos ataques de onis.",
       },
       {
         epNumber: 24,
         title: "Treino de Reabilitação",
-        image: "/episodios/t1-ep24.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep24.jpg",
         summary:
           "A situação se acalma no QG dos Exterminadores, e é hora da recuperação. Mas Tanjiro, Zenitsu e Inosuke têm muito mais do que descanso pela frente, até voltarem ao normal.",
       },
       {
         epNumber: 25,
         title: "Kanao Tsuyuri, a Tsuguko",
-        image: "/episodios/t1-ep25.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep25.jpg",
         summary:
           "Kanao é a Tsuguko de Shinobu - uma espadachim treinada diretamente por um Hashira. E apesar do pouco tamanho, já dominou a Respiração da Concentração Total que Tanjiro tanto sofre para aprender. De onde ela vem?",
       },
       {
         epNumber: 26,
         title: "Uma nova missão",
-        image: "/episodios/t1-ep26.jpg",
+        image: "/dev-demon-slayer/episodios/t1-ep26.jpg",
         summary:
           "A recuperação de Tanjiro, Zenitsu e Inosuke acabou, e agora é hora de partir na próxima missão oficial: há pessoas desaparecendo em certo Trem Infinito, e o time embarcará nessa viagem rumo ao futuro.",
       },
