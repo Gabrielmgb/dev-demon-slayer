@@ -397,157 +397,157 @@ export const seasons = [
       },
       {
         epNumber: 5,
-        title: "Minha Própria Lâmina de Aço",
+        title: "Meu próprio aço",
         image: "/dev-demon-slayer/episodios/t1-ep5.jpg",
         summary:
-          "Tanjiro recebe sua primeira missão como Caçador de Demônios e conhece Haganezuka, o ferreiro que forjará sua espada Nichirin.",
+          "Tanjiro conhece os outros poucos sobreviventes da Seleção Final, e precisa tomar sua primeira decisão como um caçador de onis. Também chega a hora de reencontrar pessoas queridas, depois de tanto esforço.",
       },
       {
         epNumber: 6,
-        title: "Demônio Devorador de Humanos",
-        image: "/placeholder.svg?width=400&height=225",
+        title: "O espadachim que acompanha um oni",
+        image: "/episodios/t1-ep6.jpg",
         summary:
-          "Em sua primeira missão oficial, Tanjiro enfrenta um demônio que devora jovens e salva Kazumi, mostrando sua compaixão única.",
+          "Tanjiro parte para sua primeira tarefa como Exterminador: investigar uma série de desaparecimentos de garotas jovens, numa cidade. O que ele aprendeu com Urokodaki será o suficiente?",
       },
       {
         epNumber: 7,
-        title: "Muichiro Tokito",
-        image: "/placeholder.svg?width=400&height=225",
+        title: "Muzan Kibutsuji",
+        image: "/episodios/t1-ep7.jpg",
         summary:
-          "Tanjiro conhece Muichiro Tokito e outros caçadores, começando a entender a hierarquia da Corporação de Caçadores de Demônios.",
+          "Tanjiro agora tem um alvo claro: Muzan Kibutsuji, o oni capaz de converter humanos normais em demônios comedores de pessoas. Mas a caça não será tão simples quanto ele imagina.",
       },
       {
         epNumber: 8,
-        title: "O Cheiro da Sedução",
+        title: "O aroma do sangue sedutor",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro, Zenitsu e Inosuke enfrentam demônios na casa de Kyogai, onde conhecem Teruko e Shoichi.",
+          "Tanjiro deixa Muzan Kibutsuji escapar, mas encontra outros aliados inesperados em Tóquio: Tamayo e Yushiro, dois médicos... que também são onis.",
       },
       {
         epNumber: 9,
-        title: "Demônio Tambor",
+        title: "O oni da temari e o oni da flecha",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "A batalha contra Kyogai, o demônio dos tambores, testa as habilidades de Tanjiro em um ambiente em constante mudança.",
+          "Tanjiro está sob o ataque de dois onis muito mais fortes de todos que ele havia visto até agora. E além de lutar, ele ainda precisa se preocupar em proteger Yushiro e Tamayo.",
       },
       {
         epNumber: 10,
-        title: "Sempre Proteger",
+        title: "Juntos para sempre",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro derrota Kyogai e mostra respeito pelo demônio derrotado, demonstrando sua natureza compassiva única.",
+          "O ataque de Yahaba e Susamaru continua implacável, e Tanjiro continua extraindo o máximo de sua força para conseguir vencer. E em meio à batalha, é revelado mais sobre a natureza de Kibutsuji.",
       },
       {
         epNumber: 11,
-        title: "Tsuzumi Mansion",
+        title: "A mansão do tsuzumi",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "O trio se recupera dos ferimentos e Tanjiro reflete sobre suas experiências, fortalecendo sua determinação.",
+          "Tanjiro reencontra-se com Zenitsu Agatsuma, um dos sobreviventes da Seleção Final. Mas, diferente do que se esperaria de um herói, o rapaz loiro é mais medroso e mulherengo do que a média..",
       },
       {
         epNumber: 12,
-        title: "O Javali Orgulhoso, Inosuke Hashibira",
+        title: "O javali mostra as presas, enquanto Zenitsu dorme",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Inosuke desafia Tanjiro para uma luta, revelando sua personalidade selvagem e competitiva.",
+          "Tanjiro, Zenitsu e as crianças ainda estão presos na mansão, e situação se complica quando um homem com cabeça de javali aparece armado até os dentes - inclusive os dentes.",
       },
       {
         epNumber: 13,
         title: "Algo Mais Importante que a Vida",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Zenitsu revela seu verdadeiro poder quando está inconsciente, salvando uma criança de um demônio aranha.",
+          "Prestes a quebrar, Tanjiro continua enfrentando o oni dos tambores com tudo o que tem. E essa forte determinação não escapa aos ouvidos atentos de Zenitsu.",
       },
       {
         epNumber: 14,
         title: "A Casa com o Brasão de Glicínia",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "O trio se recupera em uma casa segura e conhece mais sobre a rede de apoio aos Caçadores de Demônios.",
+          "O caos da mansão finalmente se aquieta, e Tanjiro, Zenitsu e o recém-chegado homem da cabeça de javali começam a se conhecer melhor. O que provavelmente vai levar a mais caos.",
       },
       {
         epNumber: 15,
         title: "Monte Natagumo",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro, Zenitsu e Inosuke chegam ao Monte Natagumo, onde enfrentarão a família de demônios aranha liderada por Rui.",
+          "Depois de um breve descanso, Tanjiro, Zenitsu e Inosuke recebem sua próxima missão: investigar uma montanha sinistra e perigosa... os três juntos.",
       },
       {
         epNumber: 16,
-        title: "Deixando um Amigo para Trás",
+        title: "Deixar outra pessoa ir na sua frente",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Zenitsu é separado do grupo e enfrenta o demônio aranha mais velho, revelando seu medo e coragem.",
+          "Tanjiro e Inosuke continuam enfrentando as aranhas mortíferas do monte Natagumo, e o guereiro da cabeça de javali finalmente começa a entender o que motiva seu parceiro no campo de batalha.",
       },
       {
         epNumber: 17,
-        title: "Você Deve Continuar Vivendo",
+        title: "Seja mestre de uma única coisa",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Inosuke luta contra o demônio aranha pai enquanto Tanjiro enfrenta a irmã aranha, mostrando compaixão por ela.",
+          "A batalha contra as aranhas do Monte Natagumo continua, e agora quem precisa finalmente encarar seus medos é Zenitsu - o que o levará numa viagem ao seu próprio passado.",
       },
       {
         epNumber: 18,
-        title: "Um Vínculo Forjado por Água",
+        title: "Um laço falso",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Giyu Tomioka chega ao Monte Natagumo e demonstra o verdadeiro poder de um Hashira ao derrotar facilmente o demônio pai.",
+          "A família de onis do Monte Natagumo continua causando problemas para Tanjiro e seus amigos. Quando a situação torna-se desesperadora, o exterminador percebe que talvez aquela não seja uma família de verdade.",
       },
       {
         epNumber: 19,
         title: "Hinokami",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro desperta a Dança do Deus do Fogo (Hinokami Kagura) pela primeira vez durante sua batalha contra Rui.",
+          "Finalmente é revelada a identidade do membro dos Doze Kizuki dentre a família de aranhas do monte Natagumo - e isso faz Tanjiro lembrar do próprio passado, quando seu pai era vivo.",
       },
       {
         epNumber: 20,
-        title: "Família Falsa",
+        title: "Família de faz-de-conta",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "A batalha final contra Rui revela a trágica história da família aranha forçada e o desejo de Rui por laços familiares verdadeiros.",
+          "Ainda há sobreviventes na família de onis aranha do monte Natagumo - e é através de um deles que descobrimos a verdade por trás dessa estranha união entre estranhos.",
       },
       {
         epNumber: 21,
-        title: "Contra as Regras do Corpo de Caçadores de Demônios",
+        title: "Contra as regras do esquadrão",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro e Nezuko são levados perante os Hashiras para julgamento por ele carregar um demônio consigo.",
+          "Giyu Tomioka e Kocho Shinobu são dois dos Hashiras, a classe mais elevada do Esquadrão de Exterminadores. Mas uma violação de regras faz eles se virarem um contra o outro.",
       },
       {
         epNumber: 22,
-        title: "Mestre",
+        title: "O senhor da mansão",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "O julgamento de Tanjiro e Nezuko continua, com Kagaya Ubuyashiki, o líder da corporação, defendendo-os.",
+          "Os Hashiras, as figuras mais proeminentes de todo o Esquadrão de Exterminadores, finalmente se apresentam. E além de poderosos, parecem ser um grupo de guerreiros extremamente excêntricos.",
       },
       {
         epNumber: 23,
         title: "Reunião dos Hashiras",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Nezuko prova sua humanidade ao resistir ao sangue humano, convencendo alguns Hashiras de sua singularidade.",
+          "Resolvida a questão sobre a coexistência pacífica de Nezuko com os humanos, começa o verdadeiro assunto da reunião com o mestre: Muzan Kibutsuji e o aumento nos ataques de onis.",
       },
       {
         epNumber: 24,
-        title: "Treinamento de Reabilitação Funcional",
+        title: "Treino de Reabilitação",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro, Zenitsu e Inosuke começam o treinamento de reabilitação na Mansão das Borboletas com Kanao e as garotas.",
+          "A situação se acalma no QG dos Exterminadores, e é hora da recuperação. Mas Tanjiro, Zenitsu e Inosuke têm muito mais do que descanso pela frente, até voltarem ao normal.",
       },
       {
         epNumber: 25,
-        title: "Tsuguko, Kanao Tsuyuri",
+        title: "Kanao Tsuyuri, a Tsuguko",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "Tanjiro treina com Kanao e aprende sobre sua história, enquanto se prepara para futuras missões mais perigosas.",
+          "Kanao é a Tsuguko de Shinobu - uma espadachim treinada diretamente por um Hashira. E apesar do pouco tamanho, já dominou a Respiração da Concentração Total que Tanjiro tanto sofre para aprender. De onde ela vem?",
       },
       {
         epNumber: 26,
-        title: "Novo Começo",
+        title: "Uma nova missão",
         image: "/placeholder.svg?width=400&height=225",
         summary:
-          "A primeira temporada termina com Tanjiro, Zenitsu e Inosuke partindo para uma nova missão, mais fortes e unidos.",
+          "A recuperação de Tanjiro, Zenitsu e Inosuke acabou, e agora é hora de partir na próxima missão oficial: há pessoas desaparecendo em certo Trem Infinito, e o time embarcará nessa viagem rumo ao futuro.",
       },
     ],
   },
