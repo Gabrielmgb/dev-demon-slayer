@@ -559,21 +559,21 @@ export const seasons = [
       {
         epNumber: 1,
         title: "Hashira das Chamas, Kyojuro Rengoku",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/dev-demon-slayer/episodios/t2-ep1.jpg",
         summary:
           "Tanjiro, Nezuko, Zenitsu e Inosuke embarcam no Trem Infinito para investigar desaparecimentos misteriosos junto com Rengoku.",
       },
       {
         epNumber: 2,
         title: "Sono Profundo",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/dev-demon-slayer/episodios/t2-ep2.jpg",
         summary:
           "Os caçadores adormecem no trem e são presos em sonhos criados por Enmu, a Lua Inferior Um, que manipula seus sonhos.",
       },
       {
         epNumber: 3,
         title: "Deveria Ter Sido Você",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/dev-demon-slayer/episodios/t2-ep3.jpg",
         summary:
           "Tanjiro luta para despertar de seu sonho onde sua família está viva, enfrentando a dor de deixar essa ilusão para trás.",
       },
