@@ -692,77 +692,77 @@ export const seasons = [
       {
         epNumber: 1,
         title: "O Sonho de Alguém",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep1.jpg",
         summary:
           "Tanjiro viaja para a Vila dos Ferreiros para consertar sua espada quebrada e conhece Kotetsu, um jovem da vila.",
       },
       {
         epNumber: 2,
         title: "Yoriichi Tipo Zero",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep2.jpg",
         summary:
           "Tanjiro treina com um boneco mecânico antigo chamado Yoriichi Tipo Zero, descobrindo uma espada escondida em seu interior.",
       },
       {
         epNumber: 3,
         title: "A Espada de Mais de 300 Anos",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep3.jpg",
         summary:
           "A espada antiga revela ser especial, enquanto Muichiro recupera suas memórias perdidas durante seu próprio treinamento.",
       },
       {
         epNumber: 4,
         title: "Obrigado, Tokito-kun",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep4.jpg",
         summary:
           "Muichiro enfrenta Gyokko (Lua Superior Cinco) e desperta seu verdadeiro poder, derrotando o demônio com facilidade.",
       },
       {
         epNumber: 5,
         title: "Hashira Brilhante",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep5.jpg",
         summary:
           "A batalha de Muichiro contra Gyokko atinge seu clímax, com o Hashira da Névoa mostrando sua verdadeira força.",
       },
       {
         epNumber: 6,
         title: "Não Está Bem?",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep6.jpg",
         summary:
           "Tanjiro, Nezuko e Genya enfrentam Hantengu (Lua Superior Quatro) e suas múltiplas personalidades divididas.",
       },
       {
         epNumber: 7,
         title: "Hashira do Amor Mitsuri Kanroji",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep7.jpg",
         summary:
           "Mitsuri se junta à batalha contra Hantengu, mostrando sua força incrível e técnicas únicas da Respiração do Amor.",
       },
       {
         epNumber: 8,
         title: "Mu",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep8.jpg",
         summary:
           "A forma verdadeira de Hantengu é revelada como um demônio minúsculo e covarde, forçando uma caça desesperada.",
       },
       {
         epNumber: 9,
         title: "Mitsuri Kanroji",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep9.jpg",
         summary:
           "A história de Mitsuri é revelada, mostrando como ela se tornou uma Hashira e encontrou seu lugar na corporação.",
       },
       {
         epNumber: 10,
         title: "Amor Hashira Mitsuri Kanroji",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep10.jpg",
         summary:
           "Mitsuri desperta sua marca de demônio e luta com toda sua força para proteger a vila e derrotar Hantengu.",
       },
       {
         epNumber: 11,
         title: "Uma Conexão Ligada pelo Amanhecer",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t3-ep11.jpg",
         summary:
           "A batalha final contra Hantengu culmina com Tanjiro e Nezuko trabalhando juntos para derrotar o demônio antes do amanhecer.",
       },
