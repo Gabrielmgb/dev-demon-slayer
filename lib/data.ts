@@ -588,6 +588,7 @@ export const seasons = [
         image: "/episodios/t2-ep1.jpg",
         summary:
           "Tanjiro, Nezuko, Zenitsu e Inosuke embarcam no Trem Infinito para investigar desaparecimentos misteriosos junto com Rengoku.",
+        link: ""
       },
       {
         epNumber: 2,
@@ -595,6 +596,7 @@ export const seasons = [
         image: "/episodios/t2-ep2.jpg",
         summary:
           "Os caçadores adormecem no trem e são presos em sonhos criados por Enmu, a Lua Inferior Um, que manipula seus sonhos.",
+        link: ""
       },
       {
         epNumber: 3,
@@ -602,6 +604,7 @@ export const seasons = [
         image: "/episodios/t2-ep3.jpg",
         summary:
           "Tanjiro luta para despertar de seu sonho onde sua família está viva, enfrentando a dor de deixar essa ilusão para trás.",
+        link: ""
       },
       {
         epNumber: 4,
@@ -609,6 +612,7 @@ export const seasons = [
         image: "/episodios/t2-ep4.jpg",
         summary:
           "Nezuko ajuda Tanjiro a despertar, e juntos começam a acordar os outros passageiros presos nos sonhos de Enmu.",
+        link: ""
       },
       {
         epNumber: 5,
@@ -616,6 +620,7 @@ export const seasons = [
         image: "/episodios/t2-ep5.jpg",
         summary:
           "Tanjiro e Inosuke descobrem que Enmu se fundiu com o trem inteiro e devem encontrar seu núcleo para derrotá-lo.",
+        link: ""
       },
       {
         epNumber: 6,
@@ -623,6 +628,7 @@ export const seasons = [
         image: "/episodios/t2-ep6.jpg",
         summary:
           "Após derrotar Enmu, Akaza (Lua Superior Três) aparece e desafia Rengoku para uma batalha mortal.",
+        link: ""
       },
       {
         epNumber: 7,
@@ -630,6 +636,7 @@ export const seasons = [
         image: "/episodios/t2-ep7.jpg",
         summary:
           "A batalha épica entre Rengoku e Akaza atinge seu clímax, com Rengoku lutando até o fim para proteger todos.",
+        link: ""
       },
       {
         epNumber: 8,
@@ -637,6 +644,7 @@ export const seasons = [
         image: "/episodios/t2-ep8.jpg",
         summary:
           "Tengen Uzui recruta Tanjiro, Zenitsu e Inosuke para uma missão no Distrito do Entretenimento para encontrar suas esposas.",
+        link: ""
       },
       {
         epNumber: 9,
@@ -644,6 +652,7 @@ export const seasons = [
         image: "/episodios/t2-ep9.jpg",
         summary:
           "Os três garotos se disfarçam de mulheres para se infiltrar nas casas de gueixas e investigar desaparecimentos.",
+        link: ""
       },
       {
         epNumber: 10,
@@ -651,6 +660,7 @@ export const seasons = [
         image: "/episodios/t2-ep10.jpg",
         summary:
           "Inosuke descobre pistas sobre os demônios no distrito, enquanto Zenitsu enfrenta seus próprios desafios na infiltração.",
+        link: ""
       },
       {
         epNumber: 11,
@@ -658,6 +668,7 @@ export const seasons = [
         image: "/episodios/t2-ep11.jpg",
         summary:
           "Daki, a Lua Superior Seis, é revelada e mostra seu verdadeiro poder, dominando facilmente Tanjiro inicialmente.",
+        link: ""
       },
       {
         epNumber: 12,
@@ -665,6 +676,7 @@ export const seasons = [
         image: "/episodios/t2-ep12.jpg",
         summary:
           "Nezuko desperta seu poder demoníaco completo para proteger as pessoas, entrando em uma forma mais poderosa.",
+        link: ""
       },
       {
         epNumber: 13,
@@ -672,6 +684,7 @@ export const seasons = [
         image: "/episodios/t2-ep13.jpg",
         summary:
           "A batalha entre Nezuko e Daki se intensifica, revelando mais sobre os poderes únicos de ambas as demônios.",
+        link: ""
       },
       {
         epNumber: 14,
@@ -679,6 +692,7 @@ export const seasons = [
         image: "/episodios/t2-ep14.jpg",
         summary:
           "Gyutaro, o verdadeiro Lua Superior Seis, emerge do corpo de Daki, revelando ser o irmão mais velho e mais poderoso.",
+        link: ""
       },
       {
         epNumber: 15,
@@ -686,6 +700,7 @@ export const seasons = [
         image: "/episodios/t2-ep15.jpg",
         summary:
           "Tengen se junta à batalha contra os irmãos demônios, mas mesmo com sua experiência, a luta é extremamente difícil.",
+        link: ""
       },
       {
         epNumber: 16,
@@ -693,6 +708,7 @@ export const seasons = [
         image: "/episodios/t2-ep16.jpg",
         summary:
           "A batalha final contra Gyutaro e Daki exige que todos trabalhem juntos, com Tengen perdendo um braço no processo.",
+        link: ""
       },
       {
         epNumber: 17,
@@ -700,6 +716,7 @@ export const seasons = [
         image: "/episodios/t2-ep17.jpg",
         summary:
           "Tanjiro consegue decapitar Daki enquanto Tengen e os outros decapitam Gyutaro simultaneamente, derrotando os irmãos.",
+        link: ""
       },
       {
         epNumber: 18,
@@ -707,6 +724,7 @@ export const seasons = [
         image: "/episodios/t2-ep18.jpg",
         summary:
           "A história trágica de Gyutaro e Daki é revelada, mostrando como se tornaram demônios para sobreviver na pobreza.",
+        link: ""
       },
     ],
   },
@@ -721,6 +739,7 @@ export const seasons = [
         image: "/episodios/t3-ep1.jpg",
         summary:
           "Tanjiro viaja para a Vila dos Ferreiros para consertar sua espada quebrada e conhece Kotetsu, um jovem da vila.",
+        link: "https://www.crunchyroll.com/pt-br/watch/GJWU2E1J7/someones-dream"
       },
       {
         epNumber: 2,
@@ -728,6 +747,7 @@ export const seasons = [
         image: "/episodios/t3-ep2.jpg",
         summary:
           "Tanjiro treina com um boneco mecânico antigo chamado Yoriichi Tipo Zero, descobrindo uma espada escondida em seu interior.",
+        link: "https://www.crunchyroll.com/pt-br/watch/GN7UDVJWJ/yoriichi-type-zero"
       },
       {
         epNumber: 3,
@@ -735,6 +755,7 @@ export const seasons = [
         image: "/episodios/t3-ep3.jpg",
         summary:
           "A espada antiga revela ser especial, enquanto Muichiro recupera suas memórias perdidas durante seu próprio treinamento.",
+        link: "https://www.crunchyroll.com/pt-br/watch/GK9U3DN83/a-sword-from-over-300-years-ago"
       },
       {
         epNumber: 4,
@@ -742,6 +763,7 @@ export const seasons = [
         image: "/episodios/t3-ep4.jpg",
         summary:
           "Muichiro enfrenta Gyokko (Lua Superior Cinco) e desperta seu verdadeiro poder, derrotando o demônio com facilidade.",
+        link: "https://www.crunchyroll.com/pt-br/watch/GMKUXG35E/thank-you-tokito"
       },
       {
         epNumber: 5,
@@ -749,6 +771,7 @@ export const seasons = [
         image: "/episodios/t3-ep5.jpg",
         summary:
           "A batalha de Muichiro contra Gyokko atinge seu clímax, com o Hashira da Névoa mostrando sua verdadeira força.",
+        link: "https://www.crunchyroll.com/pt-br/watch/GVWU042P1/bright-red-sword"
       },
       {
         epNumber: 6,
@@ -756,6 +779,7 @@ export const seasons = [
         image: "/episodios/t3-ep6.jpg",
         summary:
           "Tanjiro, Nezuko e Genya enfrentam Hantengu (Lua Superior Quatro) e suas múltiplas personalidades divididas.",
+        link: "https://www.crunchyroll.com/pt-br/watch/G31UXZ27J/arent-you-going-to-become-a-hashira"
       },
       {
         epNumber: 7,
@@ -763,6 +787,7 @@ export const seasons = [
         image: "/episodios/t3-ep7.jpg",
         summary:
           "Mitsuri se junta à batalha contra Hantengu, mostrando sua força incrível e técnicas únicas da Respiração do Amor.",
+        link: "https://www.crunchyroll.com/pt-br/watch/GPWUKDX03/awful-villain"
       },
       {
         epNumber: 8,
@@ -770,6 +795,7 @@ export const seasons = [
         image: "/episodios/t3-ep8.jpg",
         summary:
           "A forma verdadeira de Hantengu é revelada como um demônio minúsculo e covarde, forçando uma caça desesperada.",
+        link: "https://www.crunchyroll.com/pt-br/watch/G2XU0DV5Z/the-mu-in-muichiro"
       },
       {
         epNumber: 9,
@@ -777,6 +803,7 @@ export const seasons = [
         image: "/episodios/t3-ep9.jpg",
         summary:
           "A história de Mitsuri é revelada, mostrando como ela se tornou uma Hashira e encontrou seu lugar na corporação.",
+        link: "https://www.crunchyroll.com/pt-br/watch/G8WUN0P2D/mist-hashira-muichiro-tokito"
       },
       {
         epNumber: 10,
@@ -784,6 +811,7 @@ export const seasons = [
         image: "/episodios/t3-ep10.jpg",
         summary:
           "Mitsuri desperta sua marca de demônio e luta com toda sua força para proteger a vila e derrotar Hantengu.",
+        link: "https://www.crunchyroll.com/pt-br/watch/GZ7UV1MPP/love-hashira-mitsuri-kanroji"
       },
       {
         epNumber: 11,
@@ -791,6 +819,7 @@ export const seasons = [
         image: "/episodios/t3-ep11.jpg",
         summary:
           "A batalha final contra Hantengu culmina com Tanjiro e Nezuko trabalhando juntos para derrotar o demônio antes do amanhecer.",
+        link: "https://www.crunchyroll.com/pt-br/watch/GD9UV8G2W/a-connected-bond-daybreak-and-first-light"
       },
     ],
   },
@@ -805,6 +834,7 @@ export const seasons = [
         image: "/episodios/t4-ep1.jpg",
         summary:
           "Os Hashiras se reúnem para planejar o treinamento intensivo de todos os caçadores, preparando-se para a batalha final.",
+        link: ""
       },
       {
         epNumber: 2,
@@ -812,6 +842,7 @@ export const seasons = [
         image: "/episodios/t4-ep2.jpg",
         summary:
           "Tanjiro inicia o treinamento com Uzui (resistência) e depois com Muichiro (velocidade), enfrentando desafios extremos.",
+        link: ""
       },
       {
         epNumber: 3,
@@ -819,6 +850,7 @@ export const seasons = [
         image: "/episodios/t4-ep3.jpg",
         summary:
           "O treinamento continua com Mitsuri (flexibilidade) e depois com Obanai (técnica de espada), cada um mais difícil que o anterior.",
+        link: ""
       },
       {
         epNumber: 4,
@@ -826,6 +858,7 @@ export const seasons = [
         image: "/episodios/t4-ep4.jpg",
         summary:
           "Tanjiro treina com Sanemi (combate real) e finalmente com Gyomei (força física), completando o treinamento dos Hashiras.",
+        link: ""
       },
       {
         epNumber: 5,
@@ -833,6 +866,7 @@ export const seasons = [
         image: "/episodios/t4-ep5.jpg",
         summary:
           "Genya e Sanemi confrontam seu passado familiar traumático, revelando a história por trás de sua relação conturbada.",
+        link: ""
       },
       {
         epNumber: 6,
@@ -840,6 +874,7 @@ export const seasons = [
         image: "/episodios/t4-ep6.jpg",
         summary:
           "Gyomei revela sua história trágica e como se tornou o Hashira mais forte, enquanto treina Tanjiro e Genya.",
+        link: ""
       },
       {
         epNumber: 7,
@@ -847,6 +882,7 @@ export const seasons = [
         image: "/episodios/t4-ep7.jpg",
         summary:
           "O passado de Gyomei é completamente revelado, mostrando como perdeu a visão e se tornou um caçador de demônios.",
+        link: ""
       },
       {
         epNumber: 8,
@@ -854,6 +890,7 @@ export const seasons = [
         image: "/episodios/t4-ep8.jpg",
         summary:
           "O treinamento é interrompido quando Muzan finalmente ataca, começando a batalha final que todos estavam esperando.",
+        link: ""
       },
     ],
   },
@@ -868,6 +905,7 @@ export const seasons = [
         image: "/episodios/t5-f1.jpg",
         summary:
           "Primeiro filme referente ao arco do Castelo Infinito, na qual Muzan invoca o Castelo Infinito, separando os caçadores. Kokushibo enfrenta Muichiro, Sanemi e Gyomei. Doma luta contra Shinobu, Kanao e Inosuke.",
+        link: ""
       },
       {
         epNumber: 2,
@@ -875,6 +913,7 @@ export const seasons = [
         image: "/episodios/t5-f2.jpg",
         summary:
           "Segundo filme, somente em 2027.",
+        link: ""
       },
       {
         epNumber: 3,
@@ -882,6 +921,7 @@ export const seasons = [
         image: "/episodios/t5-f3.jpg",
         summary:
           "Terceiro filme, somente em 2029.",
+        link: ""
       },
     ],
   },
