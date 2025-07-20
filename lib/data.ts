@@ -838,24 +838,24 @@ export const seasons = [
     episodes: [
       {
         epNumber: 1,
-        title: "Filme 1: A Invasão do Castelo Infinito",
+        title: "Castelo Infinito",
         image: "/episodios/t5-f1.jpg",
         summary:
           "Muzan invoca o Castelo Infinito, separando os caçadores. Kokushibo enfrenta Muichiro, Sanemi e Gyomei. Doma luta contra Shinobu, Kanao e Inosuke.",
       },
       {
         epNumber: 2,
-        title: "Filme 2: As Batalhas dos Hashiras",
+        title: "EM BREVE",
         image: "/episodios/t5-f2.jpg",
         summary:
-          "Shinobu se sacrifica para envenenar Doma. Akaza enfrenta Giyu e Tanjiro. Kokushibo revela seu passado como irmão de Yoriichi.",
+          "Somente em 2027.",
       },
       {
         epNumber: 3,
-        title: "Filme 3: O Confronto Final com Muzan",
+        title: "EM BREVE",
         image: "/episodios/t5-f3.jpg",
         summary:
-          "Todos os Hashiras sobreviventes enfrentam Muzan em sua forma final. A batalha continua até o amanhecer, decidindo o destino da humanidade.",
+          "Somente em 2029.",
       },
     ],
   },
