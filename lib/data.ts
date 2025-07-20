@@ -841,21 +841,21 @@ export const seasons = [
         title: "Castelo Infinito",
         image: "/episodios/t5-f1.jpg",
         summary:
-          "Muzan invoca o Castelo Infinito, separando os caçadores. Kokushibo enfrenta Muichiro, Sanemi e Gyomei. Doma luta contra Shinobu, Kanao e Inosuke.",
+          "Primeiro filme referente ao arco do Castelo Infinito, na qual Muzan invoca o Castelo Infinito, separando os caçadores. Kokushibo enfrenta Muichiro, Sanemi e Gyomei. Doma luta contra Shinobu, Kanao e Inosuke.",
       },
       {
         epNumber: 2,
         title: "EM BREVE",
         image: "/episodios/t5-f2.jpg",
         summary:
-          "Somente em 2027.",
+          "Segundo filme, somente em 2027.",
       },
       {
         epNumber: 3,
         title: "EM BREVE",
         image: "/episodios/t5-f3.jpg",
         summary:
-          "Somente em 2029.",
+          "Terceiro filme, somente em 2029.",
       },
     ],
   },
