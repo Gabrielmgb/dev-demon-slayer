@@ -776,56 +776,56 @@ export const seasons = [
       {
         epNumber: 1,
         title: "Para Derrotar Muzan Kibutsuji",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t4-ep1.jpg",
         summary:
           "Os Hashiras se reúnem para planejar o treinamento intensivo de todos os caçadores, preparando-se para a batalha final.",
       },
       {
         epNumber: 2,
         title: "Treinamento da Água e Treinamento dos Músculos",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t4-ep2.jpg",
         summary:
           "Tanjiro inicia o treinamento com Uzui (resistência) e depois com Muichiro (velocidade), enfrentando desafios extremos.",
       },
       {
         epNumber: 3,
         title: "Hashira Treinando Juntos",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t4-ep3.jpg",
         summary:
           "O treinamento continua com Mitsuri (flexibilidade) e depois com Obanai (técnica de espada), cada um mais difícil que o anterior.",
       },
       {
         epNumber: 4,
         title: "Para Derrotar Muzan Kibutsuji",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t4-ep4.jpg",
         summary:
           "Tanjiro treina com Sanemi (combate real) e finalmente com Gyomei (força física), completando o treinamento dos Hashiras.",
       },
       {
         epNumber: 5,
         title: "Eu Sou Diferente de Você",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t4-ep5.jpg",
         summary:
           "Genya e Sanemi confrontam seu passado familiar traumático, revelando a história por trás de sua relação conturbada.",
       },
       {
         epNumber: 6,
         title: "O Hashira Mais Forte",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t4-ep6.jpg",
         summary:
           "Gyomei revela sua história trágica e como se tornou o Hashira mais forte, enquanto treina Tanjiro e Genya.",
       },
       {
         epNumber: 7,
         title: "Pedra Hashira Gyomei Himejima",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t4-ep7.jpg",
         summary:
           "O passado de Gyomei é completamente revelado, mostrando como perdeu a visão e se tornou um caçador de demônios.",
       },
       {
         epNumber: 8,
         title: "A Chegada da Manhã",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t4-ep8.jpg",
         summary:
           "O treinamento é interrompido quando Muzan finalmente ataca, começando a batalha final que todos estavam esperando.",
       },
