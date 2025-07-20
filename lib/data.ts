@@ -559,126 +559,126 @@ export const seasons = [
       {
         epNumber: 1,
         title: "Hashira das Chamas, Kyojuro Rengoku",
-        image: "/dev-demon-slayer/episodios/t2-ep1.jpg",
+        image: "/episodios/t2-ep1.jpg",
         summary:
           "Tanjiro, Nezuko, Zenitsu e Inosuke embarcam no Trem Infinito para investigar desaparecimentos misteriosos junto com Rengoku.",
       },
       {
         epNumber: 2,
         title: "Sono Profundo",
-        image: "/dev-demon-slayer/episodios/t2-ep2.jpg",
+        image: "/episodios/t2-ep2.jpg",
         summary:
           "Os caçadores adormecem no trem e são presos em sonhos criados por Enmu, a Lua Inferior Um, que manipula seus sonhos.",
       },
       {
         epNumber: 3,
         title: "Deveria Ter Sido Você",
-        image: "/dev-demon-slayer/episodios/t2-ep3.jpg",
+        image: "/episodios/t2-ep3.jpg",
         summary:
           "Tanjiro luta para despertar de seu sonho onde sua família está viva, enfrentando a dor de deixar essa ilusão para trás.",
       },
       {
         epNumber: 4,
         title: "Insônia",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep4.jpg",
         summary:
           "Nezuko ajuda Tanjiro a despertar, e juntos começam a acordar os outros passageiros presos nos sonhos de Enmu.",
       },
       {
         epNumber: 5,
         title: "Rumo ao Núcleo",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep5.jpg",
         summary:
           "Tanjiro e Inosuke descobrem que Enmu se fundiu com o trem inteiro e devem encontrar seu núcleo para derrotá-lo.",
       },
       {
         epNumber: 6,
         title: "Akaza",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep6.jpg",
         summary:
           "Após derrotar Enmu, Akaza (Lua Superior Três) aparece e desafia Rengoku para uma batalha mortal.",
       },
       {
         epNumber: 7,
         title: "Coração em Chamas",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep7.jpg",
         summary:
           "A batalha épica entre Rengoku e Akaza atinge seu clímax, com Rengoku lutando até o fim para proteger todos.",
       },
       {
         epNumber: 8,
         title: "Hashira do Som, Tengen Uzui",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep8.jpg",
         summary:
           "Tengen Uzui recruta Tanjiro, Zenitsu e Inosuke para uma missão no Distrito do Entretenimento para encontrar suas esposas.",
       },
       {
         epNumber: 9,
         title: "Infiltração no Distrito do Entretenimento",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep9.jpg",
         summary:
           "Os três garotos se disfarçam de mulheres para se infiltrar nas casas de gueixas e investigar desaparecimentos.",
       },
       {
         epNumber: 10,
         title: "O que Você Está",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep10.jpg",
         summary:
           "Inosuke descobre pistas sobre os demônios no distrito, enquanto Zenitsu enfrenta seus próprios desafios na infiltração.",
       },
       {
         epNumber: 11,
         title: "Ninguém Chorará por Você",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep11.jpg",
         summary:
           "Daki, a Lua Superior Seis, é revelada e mostra seu verdadeiro poder, dominando facilmente Tanjiro inicialmente.",
       },
       {
         epNumber: 12,
         title: "Transformação",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep12.jpg",
         summary:
           "Nezuko desperta seu poder demoníaco completo para proteger as pessoas, entrando em uma forma mais poderosa.",
       },
       {
         epNumber: 13,
         title: "Coisas Nunca Mudam",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep13.jpg",
         summary:
           "A batalha entre Nezuko e Daki se intensifica, revelando mais sobre os poderes únicos de ambas as demônios.",
       },
       {
         epNumber: 14,
         title: "Sobreposição de Memórias",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep14.jpg",
         summary:
           "Gyutaro, o verdadeiro Lua Superior Seis, emerge do corpo de Daki, revelando ser o irmão mais velho e mais poderoso.",
       },
       {
         epNumber: 15,
         title: "Reunião",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep15.jpg",
         summary:
           "Tengen se junta à batalha contra os irmãos demônios, mas mesmo com sua experiência, a luta é extremamente difícil.",
       },
       {
         epNumber: 16,
         title: "Derrotando uma Lua Superior",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep16.jpg",
         summary:
           "A batalha final contra Gyutaro e Daki exige que todos trabalhem juntos, com Tengen perdendo um braço no processo.",
       },
       {
         epNumber: 17,
         title: "Nunca Desista",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep17.jpg",
         summary:
           "Tanjiro consegue decapitar Daki enquanto Tengen e os outros decapitam Gyutaro simultaneamente, derrotando os irmãos.",
       },
       {
         epNumber: 18,
         title: "Vida",
-        image: "/placeholder.svg?width=400&height=225",
+        image: "/episodios/t2-ep18.jpg",
         summary:
           "A história trágica de Gyutaro e Daki é revelada, mostrando como se tornaram demônios para sobreviver na pobreza.",
       },
