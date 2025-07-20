@@ -834,7 +834,7 @@ export const seasons = [
         image: "/episodios/t4-ep1.jpg",
         summary:
           "Os Hashiras se reúnem para planejar o treinamento intensivo de todos os caçadores, preparando-se para a batalha final.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GQJUG5WZ5/to-defeat-muzan-kibutsuji"
       },
       {
         epNumber: 2,
@@ -842,7 +842,7 @@ export const seasons = [
         image: "/episodios/t4-ep2.jpg",
         summary:
           "Tanjiro inicia o treinamento com Uzui (resistência) e depois com Muichiro (velocidade), enfrentando desafios extremos.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GWDU82Z05/water-hashira-giyu-tomiokas-pain"
       },
       {
         epNumber: 3,
@@ -850,7 +850,7 @@ export const seasons = [
         image: "/episodios/t4-ep3.jpg",
         summary:
           "O treinamento continua com Mitsuri (flexibilidade) e depois com Obanai (técnica de espada), cada um mais difícil que o anterior.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GWDU82Z05/water-hashira-giyu-tomiokas-pain"
       },
       {
         epNumber: 4,
@@ -858,7 +858,7 @@ export const seasons = [
         image: "/episodios/t4-ep4.jpg",
         summary:
           "Tanjiro treina com Sanemi (combate real) e finalmente com Gyomei (força física), completando o treinamento dos Hashiras.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G0DUN2EZP/to-bring-a-smile-to-ones-face"
       },
       {
         epNumber: 5,
@@ -866,7 +866,7 @@ export const seasons = [
         image: "/episodios/t4-ep5.jpg",
         summary:
           "Genya e Sanemi confrontam seu passado familiar traumático, revelando a história por trás de sua relação conturbada.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GEVUZ7V09/i-even-ate-demons"
       },
       {
         epNumber: 6,
@@ -874,7 +874,7 @@ export const seasons = [
         image: "/episodios/t4-ep6.jpg",
         summary:
           "Gyomei revela sua história trágica e como se tornou o Hashira mais forte, enquanto treina Tanjiro e Genya.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G7PU47N89/the-strongest-of-the-demon-slayer-corps"
       },
       {
         epNumber: 7,
@@ -882,7 +882,7 @@ export const seasons = [
         image: "/episodios/t4-ep7.jpg",
         summary:
           "O passado de Gyomei é completamente revelado, mostrando como perdeu a visão e se tornou um caçador de demônios.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G9DUE0V4G/stone-hashira-gyomei-himejima"
       },
       {
         epNumber: 8,
@@ -890,7 +890,7 @@ export const seasons = [
         image: "/episodios/t4-ep8.jpg",
         summary:
           "O treinamento é interrompido quando Muzan finalmente ataca, começando a batalha final que todos estavam esperando.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GX9UQE82J/the-hashira-unite"
       },
     ],
   },
