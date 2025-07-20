@@ -4,7 +4,7 @@ import { useState } from "react";
 import { seasons } from "@/lib/data";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import Link from "next/link" 
+import Link from "next/link"
 
 export default function EpisodiosPage() {
   const [selectedSeason, setSelectedSeason] = useState(seasons[0]);
@@ -37,15 +37,10 @@ export default function EpisodiosPage() {
       </div>
 
       <div>
-        <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center px-4">
-          {selectedSeason.title}
-        </h2>
+        <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center px-4">{selectedSeason.title}</h2>
         <div className="space-y-4 md:space-y-6">
           {selectedSeason.episodes.map((ep) => (
-            <Card
-              key={ep.epNumber}
-              className="bg-gray-900 border-red-900/50 flex flex-col md:flex-row overflow-hidden"
-            >
+            <Card key={ep.epNumber} className="bg-gray-900 border-red-900/50 flex flex-col md:flex-row overflow-hidden">
               <div className="md:w-1/3 lg:w-1/4 relative h-48 md:h-auto">
                 <img
                   src={ep.image || "/placeholder.svg?width=400&height=225"}
@@ -53,41 +48,27 @@ export default function EpisodiosPage() {
                   className="w-full h-full object-cover"
                 />
               </div>
-              
-              
               <div className="md:w-2/3 lg:w-3/4 p-4 flex flex-col justify-between">
-                {" "}
-                {/* Added flex-col and justify-between */}
                 <div>
                   <CardHeader className="pb-2 md:pb-4 px-0 pt-0">
-                    {" "}
-                    {/* Adjusted padding */}
                     <CardTitle className="text-lg md:text-xl text-red-500">
                       Episódio {ep.epNumber}: {ep.title}
                     </CardTitle>
                   </CardHeader>
                   <CardContent className="px-0 py-0">
-                    {" "}
-                    {/* Adjusted padding */}
                     <p className="text-gray-400 text-sm md:text-base">{ep.summary}</p>
                   </CardContent>
                 </div>
                 <div className="mt-4">
-                  {" "}
-                  {/* Added margin-top for spacing */}
-                  {selectedSeason.id === 5 ? (
-                    <Button asChild className="max-w-50 bg-purple-700 hover:bg-purple-800 text-white font-bold">
-                      <Link href="#">Assista em breve</Link>
-                    </Button>
-                  ) : (
-                    <Button asChild className="max-w-50 bg-yellow-500 hover:bg-yellow-600 text-black font-bold">
-                      <Link
-                        href="https://www.crunchyroll.com/pt-br/series/GRNV0KW0R/demon-slayer-kimetsu-no-yaiba"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
+                  {ep.link ? (
+                    <Button asChild className="w-full bg-yellow-500 hover:bg-yellow-600 text-black font-bold">
+                      <Link href={ep.link} target="_blank" rel="noopener noreferrer">
                         Assistir na Crunchyroll
                       </Link>
+                    </Button>
+                  ) : (
+                    <Button asChild className="w-full bg-purple-700 hover:bg-purple-800 text-white font-bold">
+                      <Link href="#">Assista em breve</Link>
                     </Button>
                   )}
                 </div>
