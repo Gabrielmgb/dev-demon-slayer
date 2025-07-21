@@ -588,7 +588,7 @@ export const seasons = [
         image: "/episodios/t2-ep1.jpg",
         summary:
           "Tanjiro, Nezuko, Zenitsu e Inosuke embarcam no Trem Infinito para investigar desaparecimentos misteriosos junto com Rengoku.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G2XU057GN/flame-hashira-kyojuro-rengoku"
       },
       {
         epNumber: 2,
@@ -596,7 +596,7 @@ export const seasons = [
         image: "/episodios/t2-ep2.jpg",
         summary:
           "Os caçadores adormecem no trem e são presos em sonhos criados por Enmu, a Lua Inferior Um, que manipula seus sonhos.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G8WUN2J15/deep-sleep "
       },
       {
         epNumber: 3,
@@ -604,7 +604,7 @@ export const seasons = [
         image: "/episodios/t2-ep3.jpg",
         summary:
           "Tanjiro luta para despertar de seu sonho onde sua família está viva, enfrentando a dor de deixar essa ilusão para trás.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GZ7UVPGE5/should-have-been"
       },
       {
         epNumber: 4,
@@ -612,7 +612,7 @@ export const seasons = [
         image: "/episodios/t2-ep4.jpg",
         summary:
           "Nezuko ajuda Tanjiro a despertar, e juntos começam a acordar os outros passageiros presos nos sonhos de Enmu.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GD9UV2M31/insult"
       },
       {
         epNumber: 5,
@@ -620,7 +620,7 @@ export const seasons = [
         image: "/episodios/t2-ep5.jpg",
         summary:
           "Tanjiro e Inosuke descobrem que Enmu se fundiu com o trem inteiro e devem encontrar seu núcleo para derrotá-lo.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GWDU8K358/move-forward"
       },
       {
         epNumber: 6,
@@ -628,7 +628,7 @@ export const seasons = [
         image: "/episodios/t2-ep6.jpg",
         summary:
           "Após derrotar Enmu, Akaza (Lua Superior Três) aparece e desafia Rengoku para uma batalha mortal.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GG1U2EV3X/akaza"
       },
       {
         epNumber: 7,
@@ -636,7 +636,7 @@ export const seasons = [
         image: "/episodios/t2-ep7.jpg",
         summary:
           "A batalha épica entre Rengoku e Akaza atinge seu clímax, com Rengoku lutando até o fim para proteger todos.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G0DUN0X5Z/set-your-heart-ablaze"
       },
       {
         epNumber: 8,
@@ -644,7 +644,7 @@ export const seasons = [
         image: "/episodios/t2-ep8.jpg",
         summary:
           "Tengen Uzui recruta Tanjiro, Zenitsu e Inosuke para uma missão no Distrito do Entretenimento para encontrar suas esposas.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GJWU2XQDD/sound-hashira-tengen-uzui"
       },
       {
         epNumber: 9,
@@ -652,7 +652,7 @@ export const seasons = [
         image: "/episodios/t2-ep9.jpg",
         summary:
           "Os três garotos se disfarçam de mulheres para se infiltrar nas casas de gueixas e investigar desaparecimentos.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GN7UD7N38/infiltrating-the-entertainment-district"
       },
       {
         epNumber: 10,
@@ -660,7 +660,7 @@ export const seasons = [
         image: "/episodios/t2-ep10.jpg",
         summary:
           "Inosuke descobre pistas sobre os demônios no distrito, enquanto Zenitsu enfrenta seus próprios desafios na infiltração.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GK9U34GP7/what-are-you"
       },
       {
         epNumber: 11,
@@ -668,7 +668,7 @@ export const seasons = [
         image: "/episodios/t2-ep11.jpg",
         summary:
           "Daki, a Lua Superior Seis, é revelada e mostra seu verdadeiro poder, dominando facilmente Tanjiro inicialmente.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GMKUX4EDZ/tonight"
       },
       {
         epNumber: 12,
@@ -676,7 +676,7 @@ export const seasons = [
         image: "/episodios/t2-ep12.jpg",
         summary:
           "Nezuko desperta seu poder demoníaco completo para proteger as pessoas, entrando em uma forma mais poderosa.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GVWU0Z8GP/things-are-gonna-get-real-flashy"
       },
       {
         epNumber: 13,
@@ -684,7 +684,7 @@ export const seasons = [
         image: "/episodios/t2-ep13.jpg",
         summary:
           "A batalha entre Nezuko e Daki se intensifica, revelando mais sobre os poderes únicos de ambas as demônios.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G31UX3VJ3/layered-memories"
       },
       {
         epNumber: 14,
@@ -692,7 +692,7 @@ export const seasons = [
         image: "/episodios/t2-ep14.jpg",
         summary:
           "Gyutaro, o verdadeiro Lua Superior Seis, emerge do corpo de Daki, revelando ser o irmão mais velho e mais poderoso.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GPWUK582E/transformation"
       },
       {
         epNumber: 15,
@@ -700,7 +700,7 @@ export const seasons = [
         image: "/episodios/t2-ep15.jpg",
         summary:
           "Tengen se junta à batalha contra os irmãos demônios, mas mesmo com sua experiência, a luta é extremamente difícil.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G2XU03NP8/gathering"
       },
       {
         epNumber: 16,
@@ -708,7 +708,7 @@ export const seasons = [
         image: "/episodios/t2-ep16.jpg",
         summary:
           "A batalha final contra Gyutaro e Daki exige que todos trabalhem juntos, com Tengen perdendo um braço no processo.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/G8WUNW7Q8/defeating-an-upper-rank-demon"
       },
       {
         epNumber: 17,
@@ -716,7 +716,7 @@ export const seasons = [
         image: "/episodios/t2-ep17.jpg",
         summary:
           "Tanjiro consegue decapitar Daki enquanto Tengen e os outros decapitam Gyutaro simultaneamente, derrotando os irmãos.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GZ7UVXD5K/never-give-up"
       },
       {
         epNumber: 18,
@@ -724,7 +724,7 @@ export const seasons = [
         image: "/episodios/t2-ep18.jpg",
         summary:
           "A história trágica de Gyutaro e Daki é revelada, mostrando como se tornaram demônios para sobreviver na pobreza.",
-        link: ""
+        link: "https://www.crunchyroll.com/pt-br/watch/GD9UVWE05/no-matter-how-many-lives"
       },
     ],
   },
