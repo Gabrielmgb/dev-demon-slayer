@@ -37,7 +37,7 @@ export default function EpisodiosPage() {
       </div>
 
       <div>
-        <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center px-4">{selectedSeason.title}</h2>
+        <h2 className="text-neutral-200 text-2xl md:text-3xl font-bold mb-6 text-center px-4">{selectedSeason.title}</h2>
         <div className="space-y-4 md:space-y-6">
           {selectedSeason.episodes.map((ep) => (
             <Card key={ep.epNumber} className="bg-gray-900 border-red-900/50 flex flex-col md:flex-row overflow-hidden">
