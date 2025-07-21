@@ -11,7 +11,7 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-black/60 z-10" />
         <img
           src="/dev-demon-slayer/hero-banner.jpg?width=1920&height=1080"
-          alt="Background da 4ª Temporada"
+          alt="Background da 5ª Temporada"
           className="absolute inset-0 w-full h-full object-cover"
         />
         <div className="relative z-20 p-4 max-w-4xl mx-auto">
@@ -100,7 +100,7 @@ export default function HomePage() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
               <div className="absolute bottom-4 left-4 flex items-center gap-2 text-white">
                 <Users className="w-6 h-6 text-red-500" />
-                <span className="font-bold text-lg">22+ Personagens</span>
+                <span className="font-bold text-lg">30 Personagens</span>
               </div>
             </div>
             <CardHeader>
@@ -147,7 +147,7 @@ export default function HomePage() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
               <div className="absolute bottom-4 left-4 flex items-center gap-2 text-white">
                 <PlayCircle className="w-6 h-6 text-red-500" />
-                <span className="font-bold text-lg">4 Temporadas</span>
+                <span className="font-bold text-lg">5 Temporadas</span>
               </div>
             </div>
             <CardHeader>
@@ -166,7 +166,7 @@ export default function HomePage() {
                 <li>• Temporada 2: Trem Infinito & Distrito</li>
                 <li>• Temporada 3: Vila dos Ferreiros</li>
                 <li>• Temporada 4: Treinamento dos Hashiras</li>
-                <li>• Filmes: Castelo Infinito (Trilogia)</li>
+                <li>• Temporada 5: Castelo Infinito (Trilogia)</li>
               </ul>
               <Button
                 asChild
