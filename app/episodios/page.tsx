@@ -1,13 +1,22 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef } from "react";
 import { seasons } from "@/lib/data";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import Link from "next/link"
+import Link from "next/link";
 
 export default function EpisodiosPage() {
   const [selectedSeason, setSelectedSeason] = useState(seasons[0]);
+  const episodesRef = useRef<HTMLDivElement>(null); // REF AQUI
+
+  const handleSeasonChange = (season: (typeof seasons)[0]) => {
+    setSelectedSeason(season);
+    // Espera o conteúdo atualizar antes de rolar
+    setTimeout(() => {
+      episodesRef.current?.scrollIntoView({ behavior: "smooth" });
+    }, 50); // leve delay para garantir o render
+  };
 
   return (
     <div>
@@ -36,11 +45,17 @@ export default function EpisodiosPage() {
         ))}
       </div>
 
-      <div>
-        <h2 className="text-neutral-200 text-2xl md:text-3xl font-bold mb-6 text-center px-4">{selectedSeason.title}</h2>
+      <div ref={episodesRef}>
+        {" "}
+        <h2 className="text-neutral-200 text-2xl md:text-3xl font-bold mb-6 text-center px-4">
+          {selectedSeason.title}
+        </h2>
         <div className="space-y-4 md:space-y-6">
           {selectedSeason.episodes.map((ep) => (
-            <Card key={ep.epNumber} className="bg-gray-900 border-red-900/50 flex flex-col md:flex-row overflow-hidden">
+            <Card
+              key={ep.epNumber}
+              className="bg-gray-900 border-red-900/50 flex flex-col md:flex-row overflow-hidden"
+            >
               <div className="md:w-1/3 lg:w-1/4 relative h-48 md:h-auto">
                 <img
                   src={ep.image || "/placeholder.svg?width=400&height=225"}
@@ -56,18 +71,30 @@ export default function EpisodiosPage() {
                     </CardTitle>
                   </CardHeader>
                   <CardContent className="px-0 py-0">
-                    <p className="text-gray-400 text-sm md:text-base">{ep.summary}</p>
+                    <p className="text-gray-400 text-sm md:text-base">
+                      {ep.summary}
+                    </p>
                   </CardContent>
                 </div>
                 <div className="mt-4">
                   {ep.link ? (
-                    <Button asChild className="w-full lg:max-w-50 bg-yellow-500 hover:bg-yellow-600 text-black font-bold">
-                      <Link href={ep.link} target="_blank" rel="noopener noreferrer">
+                    <Button
+                      asChild
+                      className="w-full lg:max-w-50 bg-yellow-500 hover:bg-yellow-600 text-black font-bold"
+                    >
+                      <Link
+                        href={ep.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         Assistir na Crunchyroll
                       </Link>
                     </Button>
                   ) : (
-                    <Button asChild className="w-full lg:max-w-50 bg-purple-700 hover:bg-purple-800 text-white font-bold">
+                    <Button
+                      asChild
+                      className="w-full lg:max-w-50 bg-purple-700 hover:bg-purple-800 text-white font-bold"
+                    >
                       <Link href="#">Assista em breve</Link>
                     </Button>
                   )}
@@ -75,8 +102,26 @@ export default function EpisodiosPage() {
               </div>
             </Card>
           ))}
+
+          <div className="flex justify-center gap-2 mb-8 flex-wrap px-4">
+            {seasons.map((season) => (
+              <Button
+                key={season.id}
+                onClick={() => handleSeasonChange(season)}
+                variant="outline"
+                className={`text-xs md:text-sm border-red-800 transition-colors duration-100 ${
+                  selectedSeason.id === season.id
+                    ? "bg-red-900 text-white cursor-pointer"
+                    : "text-gray-300 hover:bg-red-900/50 hover:text-white cursor-pointer"
+                }`}
+                size="sm"
+              >
+                Temporada {season.seasonNumber}
+              </Button>
+            ))}
+          </div>
         </div>
       </div>
     </div>
-  )
+  );
 }
