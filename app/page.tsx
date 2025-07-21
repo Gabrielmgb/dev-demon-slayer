@@ -39,7 +39,7 @@ export default function HomePage() {
                 Castle)
               </li>
               <li>
-                <strong>Data de Lançamento:</strong> 12 de Maio de 2025
+                <strong>Data de Lançamento:</strong> 11 de Setembro de 2025
               </li>
               <li>
                 <strong>Estúdio:</strong> Ufotable
