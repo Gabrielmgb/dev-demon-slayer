@@ -902,7 +902,7 @@ export const seasons = [
       {
         epNumber: 1,
         title: "Castelo Infinito",
-        image: "/episodios/t5-f1.jpg",
+        image: "/dev-demon-slayer/episodios/t5-f1.jpg",
         summary:
           "Primeiro filme da trilogia referente ao arco do Castelo Infinito, na qual Muzan invoca o Castelo Infinito, separando os caçadores. Kokushibo enfrenta Muichiro, Sanemi e Gyomei. Doma luta contra Shinobu, Kanao e Inosuke.",
         link: ""
@@ -910,7 +910,7 @@ export const seasons = [
       {
         epNumber: 2,
         title: "EM BREVE",
-        image: "/episodios/t5-f2.jpg",
+        image: "/dev-demon-slayer/episodios/t5-f2.jpg",
         summary:
           "Segundo filme, somente em 2027.",
         link: ""
@@ -918,7 +918,7 @@ export const seasons = [
       {
         epNumber: 3,
         title: "EM BREVE",
-        image: "/episodios/t5-f3.jpg",
+        image: "/dev-demon-slayer/episodios/t5-f3.jpg",
         summary:
           "Terceiro filme, somente em 2029.",
         link: ""
