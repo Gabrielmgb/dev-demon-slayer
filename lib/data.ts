@@ -584,10 +584,10 @@ export const seasons = [
     episodes: [
       {
         epNumber: 1,
-        title: "Hashira das Chamas, Kyojuro Rengoku",
+        title: "O Pilar das Chamas, Kyojuro Rengoku",
         image: "/episodios/t2-ep1.jpg",
         summary:
-          "Tanjiro, Nezuko, Zenitsu e Inosuke embarcam no Trem Infinito para investigar desaparecimentos misteriosos junto com Rengoku.",
+          "Um oni assola a cidade, atacando pessoas indefesas na calada da noite. Mas Kyojuro Rengoku, o Pilar das Chamas está no caso, que parece ter uma relação com o Trem Infinito. Agora ele parte sozinho em busca de alternativas para proteger a população indefesa que vive em volta da linha do trem.",
         link: "https://www.crunchyroll.com/pt-br/watch/G2XU057GN/flame-hashira-kyojuro-rengoku"
       },
       {
@@ -595,31 +595,31 @@ export const seasons = [
         title: "Sono Profundo",
         image: "/episodios/t2-ep2.jpg",
         summary:
-          "Os caçadores adormecem no trem e são presos em sonhos criados por Enmu, a Lua Inferior Um, que manipula seus sonhos.",
+          "Tanjiro e companhia se encontram com Rengoku dentro do trem. Lá eles acreditam que estão a caminho de uma nova missão, mas o Pilar das Chamas os corrige: o oni vai atacar no trem! Mas será que este é o único inimigo que vão encontrar?",
         link: "https://www.crunchyroll.com/pt-br/watch/G8WUN2J15/deep-sleep "
       },
       {
         epNumber: 3,
-        title: "Deveria Ter Sido Você",
+        title: "Se fosse verdade",
         image: "/episodios/t2-ep3.jpg",
         summary:
-          "Tanjiro luta para despertar de seu sonho onde sua família está viva, enfrentando a dor de deixar essa ilusão para trás.",
+          "Imersos no sono profundo causado pelo Oni, os exterminadores vivenciam experiências ditadas por seus corações. Em reencontro com sua família, Tanjiro agora precisa escapar de volta para a realidade.",
         link: "https://www.crunchyroll.com/pt-br/watch/GZ7UVPGE5/should-have-been"
       },
       {
         epNumber: 4,
-        title: "Insônia",
+        title: "Insulto",
         image: "/episodios/t2-ep4.jpg",
         summary:
-          "Nezuko ajuda Tanjiro a despertar, e juntos começam a acordar os outros passageiros presos nos sonhos de Enmu.",
+          "Tanjiro descobre uma arriscada forma de escapar do sonho no Trem Infinito. Porém, para proteger os passageiros sob domínio do Oni, ele precisará que seus colegas Exterminadores também despertem.",
         link: "https://www.crunchyroll.com/pt-br/watch/GD9UV2M31/insult"
       },
       {
         epNumber: 5,
-        title: "Rumo ao Núcleo",
+        title: "Em Frente!",
         image: "/episodios/t2-ep5.jpg",
         summary:
-          "Tanjiro e Inosuke descobrem que Enmu se fundiu com o trem inteiro e devem encontrar seu núcleo para derrotá-lo.",
+          "Tanjiro descobre o Oni que colocou todos os passageiros do Trem Infinito para dormir. No entanto, ao cortar o próprio pescoço, descobre que ele na verdade tomou conta de todo trem. Agora, enquanto precisa proteger seus amigos e os passageiros, Tanjiro precisa encontrar uma forma de derrotar o Oni de uma vez por todas!",
         link: "https://www.crunchyroll.com/pt-br/watch/GWDU8K358/move-forward"
       },
       {
@@ -627,15 +627,15 @@ export const seasons = [
         title: "Akaza",
         image: "/episodios/t2-ep6.jpg",
         summary:
-          "Após derrotar Enmu, Akaza (Lua Superior Três) aparece e desafia Rengoku para uma batalha mortal.",
+          "Tanjiro e Inosuke lutam para cortar o pescoço do Oni que se fundiu com o trem. Tanjiro está ferido, mas consegue cumprir sua missão. No entanto, logo após Rengoku chegar ao seu socorro, um outro Oni aparece para atacá-los…",
         link: "https://www.crunchyroll.com/pt-br/watch/GG1U2EV3X/akaza"
       },
       {
         epNumber: 7,
-        title: "Coração em Chamas",
+        title: "Acenda o Fogo do Seu Coração",
         image: "/episodios/t2-ep7.jpg",
         summary:
-          "A batalha épica entre Rengoku e Akaza atinge seu clímax, com Rengoku lutando até o fim para proteger todos.",
+          "Após a derrota de Enmu, surge Akaza, um Três Superior, diante de Tanjiro e Rengoku. Ferido, no chão, Tanjiro por pouco não é atacado pelo inimigo e escapa da morte por um triz quando Rengoku rapidamente contra-ataca. Durante uma batalha intensa entre Rengoku e Akaza, este sugere a Rengoku que se torne um Oni. O Pilar das Chamas recusa veementemente a oferta, mas seu corpo ferido está exaurido e sendo levado além dos seus limites físicos...",
         link: "https://www.crunchyroll.com/pt-br/watch/G0DUN0X5Z/set-your-heart-ablaze"
       },
       {
@@ -904,7 +904,7 @@ export const seasons = [
         title: "Castelo Infinito",
         image: "/episodios/t5-f1.jpg",
         summary:
-          "Primeiro filme referente ao arco do Castelo Infinito, na qual Muzan invoca o Castelo Infinito, separando os caçadores. Kokushibo enfrenta Muichiro, Sanemi e Gyomei. Doma luta contra Shinobu, Kanao e Inosuke.",
+          "Primeiro filme da trilogia referente ao arco do Castelo Infinito, na qual Muzan invoca o Castelo Infinito, separando os caçadores. Kokushibo enfrenta Muichiro, Sanemi e Gyomei. Doma luta contra Shinobu, Kanao e Inosuke.",
         link: ""
       },
       {
