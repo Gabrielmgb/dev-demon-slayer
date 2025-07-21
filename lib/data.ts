@@ -736,7 +736,7 @@ export const seasons = [
       {
         epNumber: 1,
         title: "Sonho de Alguém",
-        image: "/episodios/t3-ep1.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep1.jpg",
         summary:
           "Após a batalha no distrito do Entretenimento, Muzan reúne os Luas Superiores para tratar de um assunto importante. Enquanto isso, Tanjiro e seus amigos se recuperam da batalha. Tanjiro, ao despertar, parte para o vilarejo dos ferreiros, em busca de uma forma de consertar sua espada.",
         link: "https://www.crunchyroll.com/pt-br/watch/GJWU2E1J7/someones-dream"
@@ -744,7 +744,7 @@ export const seasons = [
       {
         epNumber: 2,
         title: "Yoriichi Tipo Zero",
-        image: "/episodios/t3-ep2.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep2.jpg",
         summary:
           "Tanjiro sai em busca do Sr. Haganezuka para encontrar sua espada, mas acaba encontrando um Hashira, um garoto aprendiz de ferreiro e um boneco mecânico de seis braços que é de alguma forma familiar.",
         link: "https://www.crunchyroll.com/pt-br/watch/GN7UDVJWJ/yoriichi-type-zero"
@@ -752,7 +752,7 @@ export const seasons = [
       {
         epNumber: 3,
         title: "Uma Espada de mais de 300 Anos",
-        image: "/episodios/t3-ep3.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep3.jpg",
         summary:
           "Tanjiro descobre uma espada antiga dentro do boneco e isso chama a atenção do Sr. Haganezuka, que finalmente aparece. Enquanto ele aguarda que a espada seja polida, começa a acontecer um ataque ao vilarejo dos ferreiros.",
         link: "https://www.crunchyroll.com/pt-br/watch/GK9U3DN83/a-sword-from-over-300-years-ago"
@@ -760,7 +760,7 @@ export const seasons = [
       {
         epNumber: 4,
         title: "Obrigado, Tokito",
-        image: "/episodios/t3-ep4.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep4.jpg",
         summary:
           "Enquanto Tokito muda de ideia após ouvir as palavras de Tanjiro e resolve salvar alguém na floresta, Tanjiro e companhia lutam. No entanto, logo Tanjiro acaba separado de Nezuko e Genya. Será que ele conseguirá voltar a tempo de ajudá-los?",
         link: "https://www.crunchyroll.com/pt-br/watch/GMKUXG35E/thank-you-tokito"
@@ -768,7 +768,7 @@ export const seasons = [
       {
         epNumber: 5,
         title: "Espada Vermelha Brilhante",
-        image: "/episodios/t3-ep5.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep5.jpg",
         summary:
           "Tokito segue avançando em meio a floresta e encontra o Sr. Kanamori. Logo que chegam até a cabana de trabalho no meio da floresta, são recepcionados por Gyokko. Enquanto isso, Tanjiro continua sua luta contra Hantengu.",
         link: "https://www.crunchyroll.com/pt-br/watch/GVWU042P1/bright-red-sword"
@@ -776,7 +776,7 @@ export const seasons = [
       {
         epNumber: 6,
         title: "Não vai se tornar um Hashira?",
-        image: "/episodios/t3-ep6.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep6.jpg",
         summary:
           "Duas lutas simultâneas continuam, Tanjiro, Nezuko e Genya contra Hantengu e Tokito contra Gyokko. Genya começou a mostrar uma forma demoníaca. Tanjiro pede para que ele procure o verdadeiro corpo de Hantengu, mas memórias do passado começam a assolar Genya.",
         link: "https://www.crunchyroll.com/pt-br/watch/G31UXZ27J/arent-you-going-to-become-a-hashira"
@@ -784,7 +784,7 @@ export const seasons = [
       {
         epNumber: 7,
         title: "Vilão Terrível",
-        image: "/episodios/t3-ep7.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep7.jpg",
         summary:
           "Enquanto Tanjiro acredita que finalmente encontrou o verdadeiro corpo de Hantengu e vencerá a luta, um novo demônio aparece para combatê-lo. Enquanto isso, Tokito está preso dentro do jarro de água de Gyokko sufocando enquanto o Lua Superior parte para a cabana onde está o Sr. Haganezuka.",
         link: "https://www.crunchyroll.com/pt-br/watch/GPWUKDX03/awful-villain"
@@ -792,7 +792,7 @@ export const seasons = [
       {
         epNumber: 8,
         title: "O Mu de Muichiro",
-        image: "/episodios/t3-ep8.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep8.jpg",
         summary:
           "A batalha intensa contra Gyokko continua. Tokito finalmente se libertou do vaso de água, mas a situação está desesperadora. Em meio a isso, ele começa a ter lembranças das dificuldades que viveu na infância e como isso influenciou sua vida hoje.",
         link: "https://www.crunchyroll.com/pt-br/watch/G2XU0DV5Z/the-mu-in-muichiro"
@@ -800,7 +800,7 @@ export const seasons = [
       {
         epNumber: 9,
         title: "O Pilar da Névoa, Muichiro Tokito",
-        image: "/episodios/t3-ep9.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep9.jpg",
         summary:
           "Tokito continua sua luta contra Gyokko, que finalmente revela todos os seu poderes. Será que o Pilar da Névoa conseguirá vencer esta batalha? Enquanto isso, Tanjiro sofre na luta contra Hantengu.",
         link: "https://www.crunchyroll.com/pt-br/watch/G8WUN0P2D/mist-hashira-muichiro-tokito"
@@ -808,7 +808,7 @@ export const seasons = [
       {
         epNumber: 10,
         title: "A Pilar do Amor, Mitsuri Kanroji",
-        image: "/episodios/t3-ep10.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep10.jpg",
         summary:
           "A luta contra Hantengu continua. Em meio a tudo isso, Kanroji mostra seu verdadeiro poder. No entanto, não parece suficiente para derrotar o Quatro Superior. Neste momento, ela se lembra de tudo que aconteceu no seu passado e de repente aparece a força necessária para continuar.",
         link: "https://www.crunchyroll.com/pt-br/watch/GZ7UV1MPP/love-hashira-mitsuri-kanroji"
@@ -816,7 +816,7 @@ export const seasons = [
       {
         epNumber: 11,
         title: "Laços Conectados - Amanhecer e a Primeira Luz",
-        image: "/episodios/t3-ep11.jpg",
+        image: "/dev-demon-slayer/episodios/t3-ep11.jpg",
         summary:
           "Tanjiro continua a luta contra Hantengu. Em meio a todos os seus ferimentos e a habilidade do Quatro Superior, conseguirá ele derrotá-lo? Enquanto a batalha se aproxima do fim, o Esquadrão de Exterminadores precisa correr contra o tempo para terminar a luta antes que o dia amanheça",
         link: "https://www.crunchyroll.com/pt-br/watch/GD9UV8G2W/a-connected-bond-daybreak-and-first-light"
