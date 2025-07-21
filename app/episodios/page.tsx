@@ -61,13 +61,13 @@ export default function EpisodiosPage() {
                 </div>
                 <div className="mt-4">
                   {ep.link ? (
-                    <Button asChild className="w-full bg-yellow-500 hover:bg-yellow-600 text-black font-bold">
+                    <Button asChild className="w-full lg:max-w-50 bg-yellow-500 hover:bg-yellow-600 text-black font-bold">
                       <Link href={ep.link} target="_blank" rel="noopener noreferrer">
                         Assistir na Crunchyroll
                       </Link>
                     </Button>
                   ) : (
-                    <Button asChild className="w-full bg-purple-700 hover:bg-purple-800 text-white font-bold">
+                    <Button asChild className="w-full lg:max-w-50 bg-purple-700 hover:bg-purple-800 text-white font-bold">
                       <Link href="#">Assista em breve</Link>
                     </Button>
                   )}
