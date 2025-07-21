@@ -833,63 +833,63 @@ export const seasons = [
         title: "Para Derrotar Muzan Kibutsuji",
         image: "/episodios/t4-ep1.jpg",
         summary:
-          "Os Hashiras se reúnem para planejar o treinamento intensivo de todos os caçadores, preparando-se para a batalha final.",
+          "Depois dos eventos no Vilarejo dos Ferreiros, o Esquadrão de Exterminadores está preocupado com um ataque iminente dos demônios de Muzan Kibutsuji. Para encontrar uma forma de derrotá-lo, Kagaya Ubuyashiki convoca uma reunião dos Hashira.",
         link: "https://www.crunchyroll.com/pt-br/watch/GQJUG5WZ5/to-defeat-muzan-kibutsuji"
       },
       {
         epNumber: 2,
-        title: "Treinamento da Água e Treinamento dos Músculos",
+        title: "A dor do Pilar da Água, Giyu Tomioka",
         image: "/episodios/t4-ep2.jpg",
         summary:
-          "Tanjiro inicia o treinamento com Uzui (resistência) e depois com Muichiro (velocidade), enfrentando desafios extremos.",
+          "Antes de poder começar seu treinamento, Tanjiro recebe uma missão: precisa conversar com Giyu Tomioka e convencê-lo a participar do Treinamento Hashira. No entanto, para isso precisará mergulhar no passado de Tomioka e no caminho que ele trilhou para entrar para o Esquadrão de Exterminadores.",
         link: "https://www.crunchyroll.com/pt-br/watch/GWDU82Z05/water-hashira-giyu-tomiokas-pain"
       },
       {
         epNumber: 3,
-        title: "Hashira Treinando Juntos",
+        title: "E3 - Tanjiro Completamente Recuperado!! Ele se junta ao Treinamento Hashira",
         image: "/episodios/t4-ep3.jpg",
         summary:
-          "O treinamento continua com Mitsuri (flexibilidade) e depois com Obanai (técnica de espada), cada um mais difícil que o anterior.",
-        link: "https://www.crunchyroll.com/pt-br/watch/GWDU82Z05/water-hashira-giyu-tomiokas-pain"
+          "Tanjiro, finalmente recuperado, começa o seu treinamento Hashira. No entanto, Tengen Uzui, o ex-Hashira que está encarregado da primeira parte do treinamento, não pega leve com ninguém.",
+        link: "hhttps://www.crunchyroll.com/pt-br/watch/GG1U2JP1Q/fully-recovered-tanjiro-joins-the-hashira-training"
       },
       {
         epNumber: 4,
-        title: "Para Derrotar Muzan Kibutsuji",
+        title: "Para colocar um sorriso no seu rosto",
         image: "/episodios/t4-ep4.jpg",
         summary:
-          "Tanjiro treina com Sanemi (combate real) e finalmente com Gyomei (força física), completando o treinamento dos Hashiras.",
+          "Tanjiro chega a próxima fase do treinamento Hashira, com Tokito. No entanto, o Pilar da Névoa parece pegar extremamente pesado com seus pupilos. Será que Tanjiro conseguirá de alguma forma amaciar o coração de Tokito para que ele pegue mais leve com os demais integrantes do esquadrão de exterminadores?",
         link: "https://www.crunchyroll.com/pt-br/watch/G0DUN2EZP/to-bring-a-smile-to-ones-face"
       },
       {
         epNumber: 5,
-        title: "Eu Sou Diferente de Você",
+        title: "Eu até comi demônios...",
         image: "/episodios/t4-ep5.jpg",
         summary:
-          "Genya e Sanemi confrontam seu passado familiar traumático, revelando a história por trás de sua relação conturbada.",
+          "Tanjiro segue avançando pelos treinamentos dos Hashira, passando facilmente pelo treinamento de Kanroji. No entanto, logo em seguida ele sente alguma dificuldade no treinamento de Iguro. Será que ele vai conseguir continuar avançando em direção aos próximos treinamentos?",
         link: "https://www.crunchyroll.com/pt-br/watch/GEVUZ7V09/i-even-ate-demons"
       },
       {
         epNumber: 6,
-        title: "O Hashira Mais Forte",
+        title: "O mais forte do Esquadrão de Exterminadores",
         image: "/episodios/t4-ep6.jpg",
         summary:
-          "Gyomei revela sua história trágica e como se tornou o Hashira mais forte, enquanto treina Tanjiro e Genya.",
+          "Após os últimos acontecimentos, Tanjiro e Zenitsu vão até o treinamento do Pilar das Rochas, Himejima. Lá eles encontram Inosuke e encaram três tarefas difíceis de cumprir: o treinamento na cachoeira, o treinamento de carregar troncos de árvore e empurrar uma pedra. Mas será que eles têm o necessário para superar essa fase do treinamento Hashira?",
         link: "https://www.crunchyroll.com/pt-br/watch/G7PU47N89/the-strongest-of-the-demon-slayer-corps"
       },
       {
         epNumber: 7,
-        title: "Pedra Hashira Gyomei Himejima",
+        title: "Gyomei Himejima, o Pilar das Rochas",
         image: "/episodios/t4-ep7.jpg",
         summary:
-          "O passado de Gyomei é completamente revelado, mostrando como perdeu a visão e se tornou um caçador de demônios.",
+          "Tanjiro finalmente consegue terminar o treinamento da rocha. Após isso, ele passa a entender um pouco mais sobre o passado de Himejima. Enquanto um novo mal se aproxima, Tanjiro encontra Giyu e Shinazugawa treinando.",
         link: "https://www.crunchyroll.com/pt-br/watch/G9DUE0V4G/stone-hashira-gyomei-himejima"
       },
       {
         epNumber: 8,
-        title: "A Chegada da Manhã",
+        title: "Os Hashira se Unem",
         image: "/episodios/t4-ep8.jpg",
         summary:
-          "O treinamento é interrompido quando Muzan finalmente ataca, começando a batalha final que todos estavam esperando.",
+          "Uma presença quase que fantasmagórica começa a se aproximar da Mansão de Ubuyashiki. Muzan Kibutsuji chega ao líder do Esquadrão de Exterminadores. Mas este encontro dos dois irá finalmente sedimentar a supremacia dos demônios ou se tornará um fio de esperança?",
         link: "https://www.crunchyroll.com/pt-br/watch/GX9UQE82J/the-hashira-unite"
       },
     ],
