@@ -585,7 +585,7 @@ export const seasons = [
       {
         epNumber: 1,
         title: "O Pilar das Chamas, Kyojuro Rengoku",
-        image: "/episodios/t2-ep1.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep1.jpg",
         summary:
           "Um oni assola a cidade, atacando pessoas indefesas na calada da noite. Mas Kyojuro Rengoku, o Pilar das Chamas está no caso, que parece ter uma relação com o Trem Infinito. Agora ele parte sozinho em busca de alternativas para proteger a população indefesa que vive em volta da linha do trem.",
         link: "https://www.crunchyroll.com/pt-br/watch/G2XU057GN/flame-hashira-kyojuro-rengoku"
@@ -593,7 +593,7 @@ export const seasons = [
       {
         epNumber: 2,
         title: "Sono Profundo",
-        image: "/episodios/t2-ep2.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep2.jpg",
         summary:
           "Tanjiro e companhia se encontram com Rengoku dentro do trem. Lá eles acreditam que estão a caminho de uma nova missão, mas o Pilar das Chamas os corrige: o oni vai atacar no trem! Mas será que este é o único inimigo que vão encontrar?",
         link: "https://www.crunchyroll.com/pt-br/watch/G8WUN2J15/deep-sleep "
@@ -601,7 +601,7 @@ export const seasons = [
       {
         epNumber: 3,
         title: "Se fosse verdade",
-        image: "/episodios/t2-ep3.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep3.jpg",
         summary:
           "Imersos no sono profundo causado pelo Oni, os exterminadores vivenciam experiências ditadas por seus corações. Em reencontro com sua família, Tanjiro agora precisa escapar de volta para a realidade.",
         link: "https://www.crunchyroll.com/pt-br/watch/GZ7UVPGE5/should-have-been"
@@ -609,7 +609,7 @@ export const seasons = [
       {
         epNumber: 4,
         title: "Insulto",
-        image: "/episodios/t2-ep4.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep4.jpg",
         summary:
           "Tanjiro descobre uma arriscada forma de escapar do sonho no Trem Infinito. Porém, para proteger os passageiros sob domínio do Oni, ele precisará que seus colegas Exterminadores também despertem.",
         link: "https://www.crunchyroll.com/pt-br/watch/GD9UV2M31/insult"
@@ -617,7 +617,7 @@ export const seasons = [
       {
         epNumber: 5,
         title: "Em Frente!",
-        image: "/episodios/t2-ep5.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep5.jpg",
         summary:
           "Tanjiro descobre o Oni que colocou todos os passageiros do Trem Infinito para dormir. No entanto, ao cortar o próprio pescoço, descobre que ele na verdade tomou conta de todo trem. Agora, enquanto precisa proteger seus amigos e os passageiros, Tanjiro precisa encontrar uma forma de derrotar o Oni de uma vez por todas!",
         link: "https://www.crunchyroll.com/pt-br/watch/GWDU8K358/move-forward"
@@ -625,7 +625,7 @@ export const seasons = [
       {
         epNumber: 6,
         title: "Akaza",
-        image: "/episodios/t2-ep6.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep6.jpg",
         summary:
           "Tanjiro e Inosuke lutam para cortar o pescoço do Oni que se fundiu com o trem. Tanjiro está ferido, mas consegue cumprir sua missão. No entanto, logo após Rengoku chegar ao seu socorro, um outro Oni aparece para atacá-los…",
         link: "https://www.crunchyroll.com/pt-br/watch/GG1U2EV3X/akaza"
@@ -633,7 +633,7 @@ export const seasons = [
       {
         epNumber: 7,
         title: "Acenda o Fogo do Seu Coração",
-        image: "/episodios/t2-ep7.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep7.jpg",
         summary:
           "Após a derrota de Enmu, surge Akaza, um Três Superior, diante de Tanjiro e Rengoku. Ferido, no chão, Tanjiro por pouco não é atacado pelo inimigo e escapa da morte por um triz quando Rengoku rapidamente contra-ataca. Durante uma batalha intensa entre Rengoku e Akaza, este sugere a Rengoku que se torne um Oni. O Pilar das Chamas recusa veementemente a oferta, mas seu corpo ferido está exaurido e sendo levado além dos seus limites físicos...",
         link: "https://www.crunchyroll.com/pt-br/watch/G0DUN0X5Z/set-your-heart-ablaze"
@@ -641,7 +641,7 @@ export const seasons = [
       {
         epNumber: 8,
         title: "Tengen Uzui, o Pilar do Som",
-        image: "/episodios/t2-ep8.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep8.jpg",
         summary:
           "Depois dos eventos no Trem do Infinito, Tanjiro e companhia ainda estão sofrendo com as consequências. Apesar de ferido, Tanjiro sai ao lado de Zenitsu e Inosuke para cumprir uma nova missão. Enquanto continuam seu treinamento, um novo mal se aproxima.",
         link: "https://www.crunchyroll.com/pt-br/watch/GJWU2XQDD/sound-hashira-tengen-uzui"
@@ -649,7 +649,7 @@ export const seasons = [
       {
         epNumber: 9,
         title: "Invasão do Distrito do Entretenimento",
-        image: "/episodios/t2-ep9.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep9.jpg",
         summary:
           "Uzui leva Tanjiro, Zenitsu e Inosuke para o Distrito do Entretenimento. Lá ele explica o que está acontecendo e o seu plano para resolver um problema que está tendo por aquelas bandas.",
         link: "https://www.crunchyroll.com/pt-br/watch/GN7UD7N38/infiltrating-the-entertainment-district"
@@ -657,7 +657,7 @@ export const seasons = [
       {
         epNumber: 10,
         title: "Quem?",
-        image: "/episodios/t2-ep10.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep10.jpg",
         summary:
           "Tanjiro, Zenitsu e Inosuke entram disfarçados como mulheres no Distrito do Entretenimento para procurar as esposas de Uzui. No entanto, lá acabam descobrindo algumas pistas que sugerem anormalidades.",
         link: "https://www.crunchyroll.com/pt-br/watch/GK9U34GP7/what-are-you"
@@ -665,7 +665,7 @@ export const seasons = [
       {
         epNumber: 11,
         title: "Esta noite",
-        image: "/episodios/t2-ep11.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep11.jpg",
         summary:
           "Zenitsu desaparece e Uzui começa a achar que foi uma má ideia ter trazido Tanjiro e companhia para esta missão. Enquanto isso, Tanjiro se prepara para se unir a Inosuke, mas acaba sentindo um cheiro incomum...",
         link: "https://www.crunchyroll.com/pt-br/watch/GMKUX4EDZ/tonight"
@@ -673,7 +673,7 @@ export const seasons = [
       {
         epNumber: 12,
         title: "Vamos bem extravagantes!",
-        image: "/episodios/t2-ep12.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep12.jpg",
         summary:
           "Tanjiro luta contra Daki. Enquanto isso, Uzui encontra Hinatsuru e a salva. Inosuke vai atrás da Oni cuja presença sentiu. Uzui usa suas habilidades para encontrar o local da luta. Enquanto isso, Tanjiro não vê outra alternativa a não ser usar os ataques da sua dança Hinokami Kagura.",
         link: "https://www.crunchyroll.com/pt-br/watch/GVWU0Z8GP/things-are-gonna-get-real-flashy"
@@ -681,7 +681,7 @@ export const seasons = [
       {
         epNumber: 13,
         title: "Memórias Sobrepostas",
-        image: "/episodios/t2-ep13.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep13.jpg",
         summary:
           "Tanjiro ganha domínio sobre a Dança Hinokami Kagura durante o confronto com Daki. Enquanto isso, Uzui e os demais correm ao seu encontro.",
         link: "https://www.crunchyroll.com/pt-br/watch/G31UX3VJ3/layered-memories"
@@ -689,7 +689,7 @@ export const seasons = [
       {
         epNumber: 14,
         title: "Transformação",
-        image: "/episodios/t2-ep14.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep14.jpg",
         summary:
           "Na luta contra Daki, Tanjiro é aparentemente derrotado, mas Nezuko desperta e parte para ajudá-lo. No entanto ela começa a perder o controle de seus poderes de Oni. Enquanto isso, Uzui se aproxima do campo de batalha.",
         link: "https://www.crunchyroll.com/pt-br/watch/GPWUK582E/transformation"
@@ -697,7 +697,7 @@ export const seasons = [
       {
         epNumber: 15,
         title: "Reunião",
-        image: "/episodios/t2-ep15.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep15.jpg",
         summary:
           "Após Uzui derrotar Daki, surge outro oni, Gyutaro, do corpo dela. A luta fica cada vez mais acirrada, no entanto, Tanjiro, Zenitsu e Inosuke se juntam para ajudar a derrotá-los.",
         link: "https://www.crunchyroll.com/pt-br/watch/G2XU03NP8/gathering"
@@ -705,7 +705,7 @@ export const seasons = [
       {
         epNumber: 16,
         title: "Quando eu Derrotar os Onis Superiores",
-        image: "/episodios/t2-ep16.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep16.jpg",
         summary:
           "Enquanto Uzui e Tanjiro lutam contra Gyutaro, Inosuke e Zenitsu encaram Daki! Para vencê-los, eles precisam cortar o pescoço de ambos ao mesmo tempo. Mas será que eles vão conseguir?",
         link: "https://www.crunchyroll.com/pt-br/watch/G8WUNW7Q8/defeating-an-upper-rank-demon"
@@ -713,7 +713,7 @@ export const seasons = [
       {
         epNumber: 17,
         title: "Jamais vou desistir",
-        image: "/episodios/t2-ep17.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep17.jpg",
         summary:
           "Uzui está caído apagado em meio ao fogo. Inosuke leva um corte no coração. Zenitsu está sob uma pilha de destroços. Tanjiro não tem muito o que fazer a não ser continuar lutando. Mas conseguirá derrotar Daki e Gyutaro sozinho?",
         link: "https://www.crunchyroll.com/pt-br/watch/GZ7UVXD5K/never-give-up"
@@ -721,7 +721,7 @@ export const seasons = [
       {
         epNumber: 18,
         title: "Não importa quantas vezes eu reviva",
-        image: "/episodios/t2-ep18.jpg",
+        image: "/dev-demon-slayer/episodios/t2-ep18.jpg",
         summary:
           "Uzui desvia de todos os ataques de Kekkijutsu de Gyutaro e apesar de Tanjiro ter a mandíbula perfurada, é capaz de cortar a cabeça de Gyutaro. Apesar de estarem completamente feridos, Zenitsu e Inosuke também cortam a cabeça de Daki. Assim, eles conseguem decapitar ambos os onis ao mesmo tempo. Quando parece que eles derrotaram o Seis Superior depois de uma luta violenta, Gyutaro libera seu Kekkijutsu...",
         link: "https://www.crunchyroll.com/pt-br/watch/GD9UVWE05/no-matter-how-many-lives"
