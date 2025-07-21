@@ -640,58 +640,58 @@ export const seasons = [
       },
       {
         epNumber: 8,
-        title: "Hashira do Som, Tengen Uzui",
+        title: "Tengen Uzui, o Pilar do Som",
         image: "/episodios/t2-ep8.jpg",
         summary:
-          "Tengen Uzui recruta Tanjiro, Zenitsu e Inosuke para uma missão no Distrito do Entretenimento para encontrar suas esposas.",
+          "Depois dos eventos no Trem do Infinito, Tanjiro e companhia ainda estão sofrendo com as consequências. Apesar de ferido, Tanjiro sai ao lado de Zenitsu e Inosuke para cumprir uma nova missão. Enquanto continuam seu treinamento, um novo mal se aproxima.",
         link: "https://www.crunchyroll.com/pt-br/watch/GJWU2XQDD/sound-hashira-tengen-uzui"
       },
       {
         epNumber: 9,
-        title: "Infiltração no Distrito do Entretenimento",
+        title: "Invasão do Distrito do Entretenimento",
         image: "/episodios/t2-ep9.jpg",
         summary:
-          "Os três garotos se disfarçam de mulheres para se infiltrar nas casas de gueixas e investigar desaparecimentos.",
+          "Uzui leva Tanjiro, Zenitsu e Inosuke para o Distrito do Entretenimento. Lá ele explica o que está acontecendo e o seu plano para resolver um problema que está tendo por aquelas bandas.",
         link: "https://www.crunchyroll.com/pt-br/watch/GN7UD7N38/infiltrating-the-entertainment-district"
       },
       {
         epNumber: 10,
-        title: "O que Você Está",
+        title: "Quem?",
         image: "/episodios/t2-ep10.jpg",
         summary:
-          "Inosuke descobre pistas sobre os demônios no distrito, enquanto Zenitsu enfrenta seus próprios desafios na infiltração.",
+          "Tanjiro, Zenitsu e Inosuke entram disfarçados como mulheres no Distrito do Entretenimento para procurar as esposas de Uzui. No entanto, lá acabam descobrindo algumas pistas que sugerem anormalidades.",
         link: "https://www.crunchyroll.com/pt-br/watch/GK9U34GP7/what-are-you"
       },
       {
         epNumber: 11,
-        title: "Ninguém Chorará por Você",
+        title: "Esta noite",
         image: "/episodios/t2-ep11.jpg",
         summary:
-          "Daki, a Lua Superior Seis, é revelada e mostra seu verdadeiro poder, dominando facilmente Tanjiro inicialmente.",
+          "Zenitsu desaparece e Uzui começa a achar que foi uma má ideia ter trazido Tanjiro e companhia para esta missão. Enquanto isso, Tanjiro se prepara para se unir a Inosuke, mas acaba sentindo um cheiro incomum...",
         link: "https://www.crunchyroll.com/pt-br/watch/GMKUX4EDZ/tonight"
       },
       {
         epNumber: 12,
-        title: "Transformação",
+        title: "Vamos bem extravagantes!",
         image: "/episodios/t2-ep12.jpg",
         summary:
-          "Nezuko desperta seu poder demoníaco completo para proteger as pessoas, entrando em uma forma mais poderosa.",
+          "Tanjiro luta contra Daki. Enquanto isso, Uzui encontra Hinatsuru e a salva. Inosuke vai atrás da Oni cuja presença sentiu. Uzui usa suas habilidades para encontrar o local da luta. Enquanto isso, Tanjiro não vê outra alternativa a não ser usar os ataques da sua dança Hinokami Kagura.",
         link: "https://www.crunchyroll.com/pt-br/watch/GVWU0Z8GP/things-are-gonna-get-real-flashy"
       },
       {
         epNumber: 13,
-        title: "Coisas Nunca Mudam",
+        title: "Memórias Sobrepostas",
         image: "/episodios/t2-ep13.jpg",
         summary:
-          "A batalha entre Nezuko e Daki se intensifica, revelando mais sobre os poderes únicos de ambas as demônios.",
+          "Tanjiro ganha domínio sobre a Dança Hinokami Kagura durante o confronto com Daki. Enquanto isso, Uzui e os demais correm ao seu encontro.",
         link: "https://www.crunchyroll.com/pt-br/watch/G31UX3VJ3/layered-memories"
       },
       {
         epNumber: 14,
-        title: "Sobreposição de Memórias",
+        title: "Transformação",
         image: "/episodios/t2-ep14.jpg",
         summary:
-          "Gyutaro, o verdadeiro Lua Superior Seis, emerge do corpo de Daki, revelando ser o irmão mais velho e mais poderoso.",
+          "Na luta contra Daki, Tanjiro é aparentemente derrotado, mas Nezuko desperta e parte para ajudá-lo. No entanto ela começa a perder o controle de seus poderes de Oni. Enquanto isso, Uzui se aproxima do campo de batalha.",
         link: "https://www.crunchyroll.com/pt-br/watch/GPWUK582E/transformation"
       },
       {
@@ -699,31 +699,31 @@ export const seasons = [
         title: "Reunião",
         image: "/episodios/t2-ep15.jpg",
         summary:
-          "Tengen se junta à batalha contra os irmãos demônios, mas mesmo com sua experiência, a luta é extremamente difícil.",
+          "Após Uzui derrotar Daki, surge outro oni, Gyutaro, do corpo dela. A luta fica cada vez mais acirrada, no entanto, Tanjiro, Zenitsu e Inosuke se juntam para ajudar a derrotá-los.",
         link: "https://www.crunchyroll.com/pt-br/watch/G2XU03NP8/gathering"
       },
       {
         epNumber: 16,
-        title: "Derrotando uma Lua Superior",
+        title: "Quando eu Derrotar os Onis Superiores",
         image: "/episodios/t2-ep16.jpg",
         summary:
-          "A batalha final contra Gyutaro e Daki exige que todos trabalhem juntos, com Tengen perdendo um braço no processo.",
+          "Enquanto Uzui e Tanjiro lutam contra Gyutaro, Inosuke e Zenitsu encaram Daki! Para vencê-los, eles precisam cortar o pescoço de ambos ao mesmo tempo. Mas será que eles vão conseguir?",
         link: "https://www.crunchyroll.com/pt-br/watch/G8WUNW7Q8/defeating-an-upper-rank-demon"
       },
       {
         epNumber: 17,
-        title: "Nunca Desista",
+        title: "Jamais vou desistir",
         image: "/episodios/t2-ep17.jpg",
         summary:
-          "Tanjiro consegue decapitar Daki enquanto Tengen e os outros decapitam Gyutaro simultaneamente, derrotando os irmãos.",
+          "Uzui está caído apagado em meio ao fogo. Inosuke leva um corte no coração. Zenitsu está sob uma pilha de destroços. Tanjiro não tem muito o que fazer a não ser continuar lutando. Mas conseguirá derrotar Daki e Gyutaro sozinho?",
         link: "https://www.crunchyroll.com/pt-br/watch/GZ7UVXD5K/never-give-up"
       },
       {
         epNumber: 18,
-        title: "Vida",
+        title: "Não importa quantas vezes eu reviva",
         image: "/episodios/t2-ep18.jpg",
         summary:
-          "A história trágica de Gyutaro e Daki é revelada, mostrando como se tornaram demônios para sobreviver na pobreza.",
+          "Uzui desvia de todos os ataques de Kekkijutsu de Gyutaro e apesar de Tanjiro ter a mandíbula perfurada, é capaz de cortar a cabeça de Gyutaro. Apesar de estarem completamente feridos, Zenitsu e Inosuke também cortam a cabeça de Daki. Assim, eles conseguem decapitar ambos os onis ao mesmo tempo. Quando parece que eles derrotaram o Seis Superior depois de uma luta violenta, Gyutaro libera seu Kekkijutsu...",
         link: "https://www.crunchyroll.com/pt-br/watch/GD9UVWE05/no-matter-how-many-lives"
       },
     ],
