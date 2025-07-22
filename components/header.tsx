@@ -4,6 +4,7 @@ import Link from "next/link"
 import { Swords, Menu, X } from "lucide-react"
 import { useState } from "react"
 import { usePathname } from "next/navigation" // Import usePathname
+import NavLinks from "@/components/navLinks"
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -60,15 +61,7 @@ export default function Header() {
         {isMenuOpen && (
           <div className="absolute top-full left-0 right-0 bg-black/95 backdrop-blur-sm border-b border-red-900/50 md:hidden">
             <nav className="container mx-auto px-4 py-4 flex flex-col gap-4">
-              <Link href="/" className={`${getLinkClasses("/")} py-2`} onClick={closeMenu}>
-                Home
-              </Link>
-              <Link href="/personagens" className={`${getLinkClasses("/personagens")} py-2`} onClick={closeMenu}>
-                Personagens
-              </Link>
-              <Link href="/episodios" className={`${getLinkClasses("/episodios")} py-2`} onClick={closeMenu}>
-                Episódios
-              </Link>
+            <NavLinks />
             </nav>
           </div>
         )}

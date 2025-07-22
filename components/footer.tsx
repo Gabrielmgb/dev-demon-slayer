@@ -1,6 +1,11 @@
+import NavLinks from "./navLinks";
+
 export default function Footer() {
   return (
     <footer className="bg-black border-t border-red-900/50 mt-12">
+      <nav className="flex justify-end gap-6 pt-4 pr-10 text-sm font-medium">
+          <NavLinks />
+        </nav>
       <div className="container mx-auto px-4 py-6 text-center text-gray-500">
         <p>&copy; {new Date().getFullYear()} Kimetsu no Yaiba Fan Site. Todos os direitos reservados.</p>
         <p className="text-xs mt-1">
