@@ -4,7 +4,10 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-6 text-center text-gray-500">
         <p>&copy; {new Date().getFullYear()} Kimetsu no Yaiba Fan Site. Todos os direitos reservados.</p>
         <p className="text-xs mt-1">
-          Este é um site de fã, não oficial. Kimetsu no Yaiba é uma criação de Koyoharu Gotouge.
+          Este é um site de fã, não oficial, apenas para fins educacionais e demonstração técnica.
+          Kimetsu no Yaiba é uma criação de Koyoharu Gotouge.
+          Todos os direitos de Demon Slayer pertencem aos seus respectivos detentores.
+          Links externos direcionam para a Crunchyroll, plataforma oficial de streaming.
         </p>
       </div>
     </footer>
