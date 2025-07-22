@@ -90,7 +90,7 @@ export default function HomePage() {
 
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {/* Personagens Card */}
-          <Card className="bg-gradient-to-br from-gray-900 to-gray-800 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
+          <Card className="bg-gradient-to-br from-gray-950 to-gray-700 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
             <div className="relative h-48 overflow-hidden">
               <img
                 src="/dev-demon-slayer/personagens.gif?width=600&height=300"
@@ -137,7 +137,7 @@ export default function HomePage() {
           </Card>
 
           {/* Episódios Card */}
-          <Card className="bg-gradient-to-br from-gray-900 to-gray-800 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
+          <Card className="bg-gradient-to-br from-gray-950 to-gray-700 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
             <div className="relative h-48 overflow-hidden">
               <img
                 src="/dev-demon-slayer/episodes.gif?width=600&height=300"
