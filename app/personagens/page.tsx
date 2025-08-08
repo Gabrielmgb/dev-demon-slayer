@@ -6,9 +6,7 @@ import { Card, CardContent, CardTitle } from "@/components/ui/card"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog"
 import { motion, AnimatePresence } from "framer-motion"
 import { useState } from "react"
-
 import { easeInOut, easeOut, easeIn } from "framer-motion"
-
 
 
 const containerVariants = {
@@ -66,7 +64,7 @@ const modalVariants = {
 export default function PersonagensPage() {
 
   type Character = typeof characters[number]
-const [selectedCharacter, setSelectedCharacter] = useState<Character | null>(null)
+  const [selectedCharacter, setSelectedCharacter] = useState<Character | null>(null)
 
 
   return (
