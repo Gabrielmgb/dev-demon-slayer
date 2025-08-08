@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Kimetsu no Yaiba",
   icons: {
-    icon: "/app/favicon-demon-slayer.png",
+    icon: "/dev-demon-slayer/favicon-demon-slayer.png",
   },
   description: "Tudo sobre o universo de Demon Slayer: personagens, episódios e temporadas.",
     generator: 'v0.dev'
