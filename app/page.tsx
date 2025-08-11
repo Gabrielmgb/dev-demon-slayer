@@ -3,6 +3,8 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
 import { Users, PlayCircle, Sword, Eye } from "lucide-react";
 
+import { motion, AnimatePresence } from "framer-motion"
+
 export default function HomePage() {
   return (
     <div className="w-full">
