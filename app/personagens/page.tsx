@@ -4,7 +4,7 @@ import { DialogTrigger } from "@/components/ui/dialog"
 import { characters } from "@/lib/data"
 import { Card, CardContent, CardTitle } from "@/components/ui/card"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog"
-import { motion, AnimatePresence } from "framer-motion"
+import { motion } from "framer-motion"
 import { useState } from "react"
 import { easeInOut, easeOut, easeIn } from "framer-motion"
 
