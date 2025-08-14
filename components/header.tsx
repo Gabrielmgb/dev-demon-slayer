@@ -5,6 +5,7 @@ import { Swords, Menu, X } from "lucide-react";
 import { useState } from "react";
 import { usePathname } from "next/navigation"; // Import usePathname
 import NavLinks from "@/components/navLinks";
+import { motion } from "framer-motion"
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
