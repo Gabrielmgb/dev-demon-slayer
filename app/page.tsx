@@ -1,9 +1,10 @@
+"use client"
+
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
 import { Users, PlayCircle, Sword, Eye } from "lucide-react";
-
-import { motion } from "framer-motion"
+import { motion, easeOut, easeInOut } from "framer-motion";
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -14,7 +15,7 @@ const containerVariants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 const itemVariants = {
   hidden: { opacity: 0, y: 50 },
@@ -23,10 +24,10 @@ const itemVariants = {
     y: 0,
     transition: {
       duration: 0.6,
-      ease: "easeOut",
+      ease: easeOut,
     },
   },
-}
+};
 
 const cardVariants = {
   hidden: { opacity: 0, scale: 0.8 },
@@ -35,7 +36,7 @@ const cardVariants = {
     scale: 1,
     transition: {
       duration: 0.5,
-      ease: "easeOut",
+      ease: easeOut,
     },
   },
   hover: {
@@ -43,35 +44,61 @@ const cardVariants = {
     y: -10,
     transition: {
       duration: 0.3,
-      ease: "easeInOut",
+      ease: easeInOut,
     },
   },
-}
+};
 
 export default function HomePage() {
   return (
-    <div className="w-full">
+    <motion.div
+      initial="hidden"
+      animate="visible"
+      variants={containerVariants}
+      className="w-full"
+    >
       {/* Hero Section */}
-      <section className="relative w-full h-[60vh] md:h-[80vh] flex items-center justify-center text-center overflow-hidden rounded-lg mb-12">
+      <motion.section
+        variants={itemVariants}
+        className="relative w-full h-[60vh] md:h-[80vh] flex items-center justify-center text-center overflow-hidden rounded-lg mb-12"
+      >
         <div className="absolute inset-0 bg-black/60 z-10" />
-        <img
+        <motion.img
+          initial={{ scale: 1.2, opacity: 0 }}
+          animate={{ scale: 1, opacity: 1 }}
+          transition={{ duration: 1.5, ease: easeOut }}
           src="/dev-demon-slayer/hero-banner.jpg?width=1920&height=1080"
           alt="Background da 5ª Temporada"
           className="absolute inset-0 w-full h-full object-cover"
         />
-        <div className="relative z-20 p-4 max-w-4xl mx-auto">
-          <h1 className="text-3xl sm:text-4xl md:text-6xl font-extrabold tracking-tight text-white drop-shadow-lg mb-4">
+        <motion.div
+          initial={{ opacity: 0, y: 100 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5, duration: 0.8, ease: easeOut }}
+          className="relative z-20 p-4 max-w-4xl mx-auto"
+        >
+          <motion.h1
+            initial={{ opacity: 0, scale: 0.5 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ delay: 0.7, duration: 0.8, ease: easeOut }}
+            className="text-3xl sm:text-4xl md:text-6xl font-extrabold tracking-tight text-white drop-shadow-lg mb-4"
+          >
             Castelo Infinito: A Batalha Final
-          </h1>
-          <p className="mt-4 max-w-3xl mx-auto text-base sm:text-lg md:text-xl text-gray-200 drop-shadow-md">
+          </motion.h1>
+          <motion.p
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 1, duration: 0.6, ease: easeOut }}
+            className="mt-4 max-w-3xl mx-auto text-base sm:text-lg md:text-xl text-gray-200 drop-shadow-md"
+          >
             O confronto decisivo chegou. Tanjiro e os Hashiras enfrentam Muzan
             Kibutsuji e as Luas Superiores no misterioso Castelo Infinito, onde
             tudo será decidido.
-          </p>
-        </div>
-      </section>
+          </motion.p>
+        </motion.div>
+      </motion.section>
 
-      {/* Season 4 Details */}
+      {/* Season 5 Details */}
       <section className="py-8 md:py-12 mb-12">
         <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
           <div className="space-y-4 order-2 md:order-1">
@@ -80,8 +107,7 @@ export default function HomePage() {
             </h2>
             <ul className="space-y-2 text-gray-300 text-sm md:text-base">
               <li>
-                <strong>Nome do Arco:</strong> Castelo Infinito (Infinity
-                Castle)
+                <strong>Nome do Arco:</strong> Castelo Infinito (Infinity Castle)
               </li>
               <li>
                 <strong>Data de Lançamento:</strong> 11 de Setembro de 2025
@@ -135,100 +161,104 @@ export default function HomePage() {
 
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {/* Personagens Card */}
-          <Card className="bg-gradient-to-br from-gray-950 to-gray-700 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
-            <div className="relative h-48 overflow-hidden">
-              <img
-                src="/dev-demon-slayer/personagens.gif?width=600&height=300"
-                alt="Personagens de Demon Slayer"
-                className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
-              <div className="absolute bottom-4 left-4 flex items-center gap-2 text-white">
-                <Users className="w-6 h-6 text-red-500" />
-                <span className="font-bold text-lg">30 Personagens</span>
+          <motion.div variants={cardVariants} whileHover="hover">
+            <Card className="bg-gradient-to-br from-gray-950 to-gray-700 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
+              <div className="relative h-48 overflow-hidden">
+                <img
+                  src="/dev-demon-slayer/personagens.gif?width=600&height=300"
+                  alt="Personagens de Demon Slayer"
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
+                <div className="absolute bottom-4 left-4 flex items-center gap-2 text-white">
+                  <Users className="w-6 h-6 text-red-500" />
+                  <span className="font-bold text-lg">30 Personagens</span>
+                </div>
               </div>
-            </div>
-            <CardHeader>
-              <CardTitle className="text-2xl text-red-500 flex items-center gap-2">
-                <Sword className="w-6 h-6" />
-                Personagens
-              </CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-4">
-              <p className="text-gray-300">
-                Conheça todos os heróis, vilões e personagens marcantes da saga.
-                Desde os poderosos Hashiras até as temíveis Luas Superiores que
-                lutam no Castelo Infinito.
-              </p>
-              <ul className="text-sm text-gray-400 space-y-1">
-                <li>• Hashiras (Pilares)</li>
-                <li>• Luas Superiores e Inferiores</li>
-                <li>• Caçadores de Demônios</li>
-                <li>• Muzan e seus Subordinados</li>
-              </ul>
-              <Button
-                asChild
-                className="w-full bg-red-700 hover:bg-red-800 text-white font-bold"
-              >
-                <Link
-                  href="/personagens"
-                  className="flex items-center justify-center gap-2"
+              <CardHeader>
+                <CardTitle className="text-2xl text-red-500 flex items-center gap-2">
+                  <Sword className="w-6 h-6" />
+                  Personagens
+                </CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-4">
+                <p className="text-gray-300">
+                  Conheça todos os heróis, vilões e personagens marcantes da saga.
+                  Desde os poderosos Hashiras até as temíveis Luas Superiores que
+                  lutam no Castelo Infinito.
+                </p>
+                <ul className="text-sm text-gray-400 space-y-1">
+                  <li>• Hashiras (Pilares)</li>
+                  <li>• Luas Superiores e Inferiores</li>
+                  <li>• Caçadores de Demônios</li>
+                  <li>• Muzan e seus Subordinados</li>
+                </ul>
+                <Button
+                  asChild
+                  className="w-full bg-red-700 hover:bg-red-800 text-white font-bold"
                 >
-                  <Eye className="w-4 h-4" />
-                  Explorar Personagens
-                </Link>
-              </Button>
-            </CardContent>
-          </Card>
+                  <Link
+                    href="/personagens"
+                    className="flex items-center justify-center gap-2"
+                  >
+                    <Eye className="w-4 h-4" />
+                    Explorar Personagens
+                  </Link>
+                </Button>
+              </CardContent>
+            </Card>
+          </motion.div>
 
           {/* Episódios Card */}
-          <Card className="bg-gradient-to-br from-gray-950 to-gray-700 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
-            <div className="relative h-48 overflow-hidden">
-              <img
-                src="/dev-demon-slayer/episodes.gif?width=600&height=300"
-                alt="Episódios de Demon Slayer"
-                className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
-              <div className="absolute bottom-4 left-4 flex items-center gap-2 text-white">
-                <PlayCircle className="w-6 h-6 text-red-500" />
-                <span className="font-bold text-lg">5 Temporadas</span>
+          <motion.div variants={cardVariants} whileHover="hover">
+            <Card className="bg-gradient-to-br from-gray-950 to-gray-700 border-red-900/50 hover:border-red-700 transition-all duration-300 group overflow-hidden">
+              <div className="relative h-48 overflow-hidden">
+                <img
+                  src="/dev-demon-slayer/episodes.gif?width=600&height=300"
+                  alt="Episódios de Demon Slayer"
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
+                <div className="absolute bottom-4 left-4 flex items-center gap-2 text-white">
+                  <PlayCircle className="w-6 h-6 text-red-500" />
+                  <span className="font-bold text-lg">5 Temporadas</span>
+                </div>
               </div>
-            </div>
-            <CardHeader>
-              <CardTitle className="text-2xl text-red-500 flex items-center gap-2">
-                <PlayCircle className="w-6 h-6" />
-                Episódios
-              </CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-4">
-              <p className="text-gray-300">
-                Reviva cada momento épico da jornada de Tanjiro, desde o início
-                até a batalha final no Castelo Infinito.
-              </p>
-              <ul className="text-sm text-gray-400 space-y-1">
-                <li>• Temporada 1: Jornada de Tanjiro</li>
-                <li>• Temporada 2: Trem Infinito & Distrito</li>
-                <li>• Temporada 3: Vila dos Ferreiros</li>
-                <li>• Temporada 4: Treinamento dos Hashiras</li>
-                <li>• Temporada 5: Castelo Infinito (Trilogia)</li>
-              </ul>
-              <Button
-                asChild
-                className="w-full bg-red-700 hover:bg-red-800 text-white font-bold"
-              >
-                <Link
-                  href="/episodios"
-                  className="flex items-center justify-center gap-2"
+              <CardHeader>
+                <CardTitle className="text-2xl text-red-500 flex items-center gap-2">
+                  <PlayCircle className="w-6 h-6" />
+                  Episódios
+                </CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-4">
+                <p className="text-gray-300">
+                  Reviva cada momento épico da jornada de Tanjiro, desde o início
+                  até a batalha final no Castelo Infinito.
+                </p>
+                <ul className="text-sm text-gray-400 space-y-1">
+                  <li>• Temporada 1: Jornada de Tanjiro</li>
+                  <li>• Temporada 2: Trem Infinito & Distrito</li>
+                  <li>• Temporada 3: Vila dos Ferreiros</li>
+                  <li>• Temporada 4: Treinamento dos Hashiras</li>
+                  <li>• Temporada 5: Castelo Infinito (Trilogia)</li>
+                </ul>
+                <Button
+                  asChild
+                  className="w-full bg-red-700 hover:bg-red-800 text-white font-bold"
                 >
-                  <PlayCircle className="w-4 h-4" />
-                  Ver Episódios
-                </Link>
-              </Button>
-            </CardContent>
-          </Card>
+                  <Link
+                    href="/episodios"
+                    className="flex items-center justify-center gap-2"
+                  >
+                    <PlayCircle className="w-4 h-4" />
+                    Ver Episódios
+                  </Link>
+                </Button>
+              </CardContent>
+            </Card>
+          </motion.div>
         </div>
       </section>
-    </div>
+    </motion.div>
   );
 }
