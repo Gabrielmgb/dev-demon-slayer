@@ -99,42 +99,71 @@ export default function HomePage() {
       </motion.section>
 
       {/* Season 5 Details */}
-      <section className="py-8 md:py-12 mb-12">
+      <motion.section variants={itemVariants} className="py-8 md:py-12 mb-12">
         <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">
-          <div className="space-y-4 order-2 md:order-1">
-            <h2 className="text-2xl md:text-3xl font-bold text-red-600">
+          <motion.div
+            initial={{ opacity: 0, x: -100 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.3, duration: 0.8, ease: "easeOut" }}
+            className="space-y-4 order-2 md:order-1">
+            <motion.h2
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.5, duration: 0.6 }}
+              className="text-2xl md:text-3xl font-bold text-red-600">
               Sobre a Nova Temporada
-            </h2>
-            <ul className="space-y-2 text-gray-300 text-sm md:text-base">
-              <li>
+            </motion.h2>
+            <motion.ul
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.7, duration: 0.6 }}
+              className="space-y-2 text-gray-300 text-sm md:text-base">
+              <motion.li whileHover={{ x: 10 }} transition={{ type: "spring", stiffness: 300 }}>
                 <strong>Nome do Arco:</strong> Castelo Infinito (Infinity Castle)
-              </li>
-              <li>
+              </motion.li>
+              <motion.li whileHover={{ x: 10 }} transition={{ type: "spring", stiffness: 300 }}>
                 <strong>Data de Lançamento:</strong> 11 de Setembro de 2025
-              </li>
-              <li>
+              </motion.li>
+              <motion.li whileHover={{ x: 10 }} transition={{ type: "spring", stiffness: 300 }}>
                 <strong>Estúdio:</strong> Ufotable
-              </li>
-              <li>
+              </motion.li>
+              <motion.li whileHover={{ x: 10 }} transition={{ type: "spring", stiffness: 300 }}>
                 <strong>Formato:</strong> Trilogia de Filmes
-              </li>
-            </ul>
-            <p className="text-gray-400 leading-relaxed text-sm md:text-base">
+              </motion.li>
+            </motion.ul>
+            <motion.p
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.9, duration: 0.6 }}
+              className="text-gray-400 leading-relaxed text-sm md:text-base">
               Após o intenso treinamento dos Hashiras, chegou o momento da
               batalha final. Muzan Kibutsuji invoca o Castelo Infinito, uma
               fortaleza dimensional onde os Caçadores de Demônios enfrentarão as
               Luas Superiores restantes em combates simultâneos. Esta é a
               conclusão épica da saga de Tanjiro Kamado.
-            </p>
-            <Button
-              asChild
-              size="lg"
-              className="bg-red-700 hover:bg-red-800 text-white font-bold w-full sm:w-auto"
+            </motion.p>
+            <motion.div
+              initial={{ opacity: 0, scale: 0.8 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ delay: 1.1, duration: 0.5 }}
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
             >
-              <Link href="/episodios">Veja Todos os Episódios</Link>
-            </Button>
-          </div>
-          <div className="aspect-video rounded-lg overflow-hidden border-2 border-red-900/50 shadow-lg shadow-red-900/20 order-1 md:order-2">
+              <Button
+                asChild
+                size="lg"
+                className="bg-red-700 hover:bg-red-800 text-white font-bold w-full sm:w-auto"
+              >
+                <Link href="/episodios">Veja Todos os Episódios</Link>
+              </Button>
+            </motion.div>
+          </motion.div>
+          <motion.div
+            initial={{ opacity: 0, x: 100 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.4, duration: 0.8, ease: "easeOut" }}
+            whileHover={{ scale: 1.02 }}
+            className="aspect-video rounded-lg overflow-hidden border-2 border-red-900/50 shadow-lg shadow-red-900/20 order-1 md:order-2">
             <iframe
               className="w-full h-full"
               src="https://www.youtube.com/embed/mx9u8lRmY3o?autoplay=0&rel=0&modestbranding=1"
@@ -143,9 +172,9 @@ export default function HomePage() {
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             ></iframe>
-          </div>
+          </motion.div>
         </div>
-      </section>
+      </motion.section>
 
       {/* Explore More Section */}
       <section className="py-12 md:py-16">
