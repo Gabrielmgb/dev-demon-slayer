@@ -2,12 +2,7 @@
 
 import { useState, useRef } from "react";
 import { seasons } from "@/lib/data";
-import {
-  Card,
-  CardContent,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
@@ -105,7 +100,10 @@ export default function EpisodiosPage() {
           {selectedSeason.title}
         </motion.h2>
 
-        <motion.div variants={containerVariants} className="space-y-4 md:space-y-6">
+        <motion.div
+          variants={containerVariants}
+          className="space-y-4 md:space-y-6"
+        >
           <AnimatePresence mode="wait" initial={false}>
             <motion.div
               key={selectedSeason.id}
@@ -125,7 +123,9 @@ export default function EpisodiosPage() {
                       <motion.img
                         whileHover={{ scale: 1.05 }}
                         transition={{ duration: 0.3 }}
-                        src={ep.image || "/placeholder.svg?width=400&height=225"}
+                        src={
+                          ep.image || "/placeholder.svg?width=400&height=225"
+                        }
                         alt={`Capa do episódio ${ep.epNumber}`}
                         className="w-full h-full object-cover"
                       />
