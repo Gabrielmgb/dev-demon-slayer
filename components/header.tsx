@@ -5,7 +5,7 @@ import { Swords, Menu, X } from "lucide-react";
 import { useState } from "react";
 import { usePathname } from "next/navigation"; // Import usePathname
 import NavLinks from "@/components/navLinks";
-import { motion, AnimatePresence } from "framer-motion"
+import { motion, AnimatePresence } from "framer-motion";
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -21,8 +21,9 @@ export default function Header() {
 
   const getLinkClasses = (href: string) => {
     const isActive = pathname === href;
-    return `transition-colors ${isActive ? "text-red-500 font-bold" : "text-gray-300 hover:text-white"
-      }`;
+    return `transition-colors ${
+      isActive ? "text-red-500 font-bold" : "text-gray-300 hover:text-white"
+    }`;
   };
 
   return (
@@ -30,7 +31,8 @@ export default function Header() {
       initial={{ y: -100, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.6, ease: "easeOut" }}
-      className="bg-black/80 backdrop-blur-sm sticky top-0 z-50 border-b border-red-900/50">
+      className="bg-black/80 backdrop-blur-sm sticky top-0 z-50 border-b border-red-900/50"
+    >
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <motion.div
           whileHover={{ scale: 1.05 }}
@@ -124,7 +126,11 @@ export default function Header() {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: index * 0.1, duration: 0.3 }}
                   >
-                    <Link href={item.href} className={`${getLinkClasses(item.href)} py-2`} onClick={closeMenu}>
+                    <Link
+                      href={item.href}
+                      className={`${getLinkClasses(item.href)} py-2`}
+                      onClick={closeMenu}
+                    >
                       {item.label}
                     </Link>
                   </motion.div>
