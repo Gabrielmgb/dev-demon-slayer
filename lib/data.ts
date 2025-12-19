@@ -359,6 +359,18 @@ export const characters = [
     trivia:
       "Possui uma doença hereditária que o enfraquece fisicamente, mas sua presença espiritual é extremamente poderosa.",
   },
+
+  {
+    id: 31,
+    name: "kaigaku",
+    image: "/dev-demon-slayer/personagens/kaigaku/char-kaigaku.jpg",
+    banner: "/dev-demon-slayer/personagens/kaigaku/banner-kaigaku.jpg",
+    bio: "Líder dos Caçadores de Demônios. Um homem calmo, sábio e gentil, que inspira respeito e confiança entre os Hashiras.",
+    affiliation: "Líder da Corporação dos Caçadores de Demônios",
+    breathing: "Nenhuma",
+    trivia:
+      "Possui uma doença hereditária que o enfraquece fisicamente, mas sua presença espiritual é extremamente poderosa.",
+  },
 ];
 
 export const seasons = [
