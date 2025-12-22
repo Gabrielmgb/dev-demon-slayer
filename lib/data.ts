@@ -362,14 +362,14 @@ export const characters = [
 
   {
     id: 31,
-    name: "kaigaku",
+    name: "Kaigaku",
     image: "/dev-demon-slayer/personagens/kaigaku/char-kaigaku.jpg",
     banner: "/dev-demon-slayer/personagens/kaigaku/banner-kaigaku.jpg",
-    bio: "Líder dos Caçadores de Demônios. Um homem calmo, sábio e gentil, que inspira respeito e confiança entre os Hashiras.",
-    affiliation: "Líder da Corporação dos Caçadores de Demônios",
-    breathing: "Nenhuma",
+    bio: "Ex-Caçador de Demônios que traiu a corporação e se tornou um demônio para sobreviver. Orgulhoso, cruel e obcecado por poder, Kaigaku acredita que apenas os fortes merecem viver.",
+    affiliation: "Lua Superior Seis",
+    breathing: "Respiração do Trovão (versão demoníaca)",
     trivia:
-      "Possui uma doença hereditária que o enfraquece fisicamente, mas sua presença espiritual é extremamente poderosa.",
+      "Foi discípulo de Jigoro Kuwajima junto com Zenitsu e domina as formas da Respiração do Trovão que Zenitsu não consegue usar.",
   },
 ];
 
